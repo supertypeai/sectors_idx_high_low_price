@@ -15,7 +15,6 @@ supabase = create_client(url, key)
 # Get active company list
 response = supabase.table('idx_active_company_profile').select('symbol').execute()
 act_symbol = pd.DataFrame(response.data)
-act_symbol  = act_symbol.iloc[0:5,:] #for testing only
 
 all_df = pd.DataFrame()
 
@@ -79,17 +78,16 @@ for i in act_symbol["symbol"]:
     except:
         print(f"Error for stock {i}")
 
-# # Collect existing all time price data
-# response = supabase.table('idx_all_time_price').select('*').execute()
-# at_price_hist = pd.DataFrame(response.data)
-# at_price_hist
+# Collect existing all time price data
+response = supabase.table('idx_all_time_price').select('*').execute()
+at_price_hist = pd.DataFrame(response.data)
 
-# # Remove unchanged all time price data
-# update_df = pd.concat([all_df,at_price_hist])
-# update_df = update_df[~update_df.duplicated(keep=False)]
+# Remove unchanged all time price data
+update_df = pd.concat([all_df,at_price_hist])
+update_df = update_df[~update_df.duplicated(keep=False)]
 
 # Upload the data into supabase
-for record in all_df.to_dict(orient="records"):
+for record in update_df.to_dict(orient="records"):
     try:
         supabase.table('idx_all_time_price').upsert(record).execute()
     except:
