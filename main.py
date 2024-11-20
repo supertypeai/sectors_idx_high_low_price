@@ -79,17 +79,17 @@ for i in act_symbol["symbol"]:
     except:
         print(f"Error for stock {i}")
 
-# Collect existing all time price data
-response = supabase.table('idx_all_time_price').select('*').execute()
-at_price_hist = pd.DataFrame(response.data)
-at_price_hist
+# # Collect existing all time price data
+# response = supabase.table('idx_all_time_price').select('*').execute()
+# at_price_hist = pd.DataFrame(response.data)
+# at_price_hist
 
-# Remove unchanged all time price data
-update_df = pd.concat([all_df,at_price_hist])
-update_df = update_df[~update_df.duplicated(keep=False)]
+# # Remove unchanged all time price data
+# update_df = pd.concat([all_df,at_price_hist])
+# update_df = update_df[~update_df.duplicated(keep=False)]
 
 # Upload the data into supabase
-for record in update_df.to_dict(orient="records"):
+for record in all_df.to_dict(orient="records"):
     try:
         supabase.table('idx_all_time_price').upsert(record).execute()
     except:
