@@ -15,7 +15,7 @@ supabase = create_client(url, key)
 # Get active company list
 response = supabase.table('idx_active_company_profile').select('symbol').execute()
 act_symbol = pd.DataFrame(response.data)
-act_symbol 
+act_symbol  = act_symbol.iloc[0:5,:] #for testing only
 
 all_df = pd.DataFrame()
 
