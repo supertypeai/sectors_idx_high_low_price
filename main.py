@@ -1,10 +1,24 @@
 import yfinance as yf
 import pandas as pd
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
+
 
 from dotenv import load_dotenv
 from supabase import create_client
 import os
+
+import logging
+from imp import reload
+
+# Initiate log file
+LOG_FILENAME = 'fetch_all_time_price.log'
+
+def initiate_logging(LOG_FILENAME):
+    reload(logging)
+
+    formatLOG = '%(asctime)s - %(levelname)s: %(message)s'
+    logging.basicConfig(filename=LOG_FILENAME,level=logging.INFO, format=formatLOG)
+    logging.info('Program started')
 
 # Initiate Supabase DB
 load_dotenv()
@@ -92,3 +106,5 @@ for record in update_df.to_dict(orient="records"):
         supabase.table('idx_all_time_price').upsert(record).execute()
     except:
         print("Financial report for the symbol is already available in the database")
+
+logging.info(f"{update_df.shape[0]} data are updated on {date.today()}, the stocks are {update_df.to_json(orient='records')}")
