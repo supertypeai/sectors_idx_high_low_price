@@ -76,8 +76,44 @@ for i in act_symbol["symbol"]:
         price_52w_low.columns = ["date","price"]
         price_52w_low["type"] = "52_w_low"
 
+        # Get 90_d_high and 90_d_low
+        start_date_week = (datetime.now(tz=timezone) - timedelta(days=90))
+
+        ## Filter the DataFrame for rows within the last 52 weeks
+        df_90d = stock[stock['Date'] >= start_date_week]
+
+        high_90d = df_90d['High'].max()
+        low_90d = df_90d['Low'].min()
+
+        # Select rows with max in 'high' or min in 'low'
+        price_90d_high = df_90d[(df_90d['High'] == high_90d)][["Date","High"]].drop_duplicates(subset=['High'])
+        price_90d_high.columns = ["date","price"]
+        price_90d_high["type"] = "90_d_high"
+
+        price_90d_low = df_90d[(df_90d['Low'] == low_90d)][["Date","Low"]].drop_duplicates(subset=['Low'])
+        price_90d_low.columns = ["date","price"]
+        price_90d_low["type"] = "90_d_low"
+
+        # Get ytd_high and ytd_low
+        start_date_ytd = f"{datetime.now(tz=timezone).year}-01-01"
+
+        ## Filter the DataFrame for rows within the last 52 weeks
+        df_ytd = stock[stock['Date'] >= start_date_ytd]
+
+        high_ytd = df_ytd['High'].max()
+        low_ytd = df_ytd['Low'].min()
+
+        # Select rows with max in 'high' or min in 'low'
+        price_ytd_high = df_ytd[(df_ytd['High'] == high_ytd)][["Date","High"]].drop_duplicates(subset=['High'])
+        price_ytd_high.columns = ["date","price"]
+        price_ytd_high["type"] = "ytd_high"
+
+        price_ytd_low = df_ytd[(df_ytd['Low'] == low_ytd)][["Date","Low"]].drop_duplicates(subset=['Low'])
+        price_ytd_low.columns = ["date","price"]
+        price_ytd_low["type"] = "ytd_low"
+
         # Combine all price status data
-        result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low])
+        result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low,price_90d_high,price_90d_low,price_ytd_high,price_ytd_low])
         result["symbol"] = i
 
         result["price"] = result["price"].astype('int')
