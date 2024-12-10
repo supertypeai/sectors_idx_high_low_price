@@ -2,7 +2,7 @@ name: All Time Price Data Fetching
 
 on:
   schedule:
-    - cron: '0 3 * * 1-5' # Run every weekdat at 11am (Western Indonesia Time)
+    - cron: '0 3,10 * * 1-5' # Run every weekdat at 11am and 5pm (Western Indonesia Time)
   
   workflow_dispatch:
       
