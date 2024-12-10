@@ -22,12 +22,12 @@ def initiate_logging(LOG_FILENAME):
 
 def get_data(ticker):
     # Fetch data from yahoo finance
-    stock = yf.download(ticker)
+    stock = yf.Ticker(ticker).history(interval="1d",period="max",auto_adjust=False) 
 
     stock = stock.reset_index()
     stock = stock.sort_values("Date")
     stock = stock[["Date","High","Low"]]
-    stock["Date"] = pd.to_datetime(stock["Date"])
+    stock["Date"] = pd.to_datetime(stock["Date"]).dt.tz_localize(None)
 
     return stock
 
