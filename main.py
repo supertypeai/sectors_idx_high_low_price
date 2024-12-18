@@ -23,8 +23,7 @@ def initiate_logging(LOG_FILENAME):
 
 def get_data(ticker):
     # Fetch data from yahoo finance
-    # stock = yf.Ticker(ticker).history(interval="1d",period="max",auto_adjust=False) 
-    stock = yf.download(ticker,auto_adjust=False)
+    stock = yf.Ticker(ticker).history(interval="1d",period="max",auto_adjust=False) 
 
     stock = stock.reset_index()
     stock = stock.sort_values("Date")
@@ -158,6 +157,7 @@ for i in act_symbol["symbol"]:
         except:
             print(f"Failed for stock {i}")
             try_occ += 1
+            time.sleep(2)
 
 
 # Collect existing all time price data
