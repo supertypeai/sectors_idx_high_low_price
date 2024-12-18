@@ -151,6 +151,8 @@ for i in act_symbol["symbol"]:
             all_df = pd.concat([all_df,result])
 
             print(f"Finish for stock {i}")
+
+            try_occ = 5
         
         except:
             print(f"Failed for stock {i}")
