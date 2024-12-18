@@ -2,6 +2,7 @@ import yfinance as yf
 import pandas as pd
 from datetime import datetime, timedelta, date
 import time
+import pytz
 
 
 from dotenv import load_dotenv
