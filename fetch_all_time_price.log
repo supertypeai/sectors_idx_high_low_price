@@ -4864,3 +4864,2284 @@
 2024-12-18 03:33:00,381 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
 2024-12-18 03:33:00,381 - ERROR: $PTPS.JK: possibly delisted; no timezone found
 2024-12-18 03:33:09,618 - INFO: 11 data are updated on 2024-12-18, the stocks are [{"date":"2024-12-18","price":1150,"type":"52_w_low","symbol":"ADMR.JK"},{"date":"2024-12-18","price":1150,"type":"90_d_low","symbol":"ADMR.JK"},{"date":"2024-12-18","price":1150,"type":"ytd_low","symbol":"ADMR.JK"},{"date":"2024-12-18","price":775,"type":"90_d_low","symbol":"SAPX.JK"},{"date":"2024-12-18","price":374,"type":"all_time_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":374,"type":"52_w_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":374,"type":"90_d_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":374,"type":"ytd_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":785,"type":"90_d_low","symbol":"NCKL.JK"},{"date":"2024-12-18","price":250,"type":"90_d_low","symbol":"CAMP.JK"},{"date":"2024-12-18","price":92,"type":"90_d_low","symbol":"LPKR.JK"}]
+2024-12-18 03:50:20,881 - INFO: Program started
+2024-12-18 03:52:10,990 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:10,990 - ERROR: ['UNIC.JK']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2024-12-18 03:52:11,610 - ERROR: Failed to get ticker 'UNTR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:11,618 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:11,618 - ERROR: ['UNTR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:12,167 - ERROR: Failed to get ticker 'BNBA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:12,177 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:12,177 - ERROR: ['BNBA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:12,789 - ERROR: Failed to get ticker 'PDES.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:12,798 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:12,798 - ERROR: ['PDES.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:13,417 - ERROR: Failed to get ticker 'DLTA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:13,419 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:13,419 - ERROR: ['DLTA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:14,135 - ERROR: Failed to get ticker 'DSSA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:14,138 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:14,138 - ERROR: ['DSSA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:14,724 - ERROR: Failed to get ticker 'HDIT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:14,726 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:14,726 - ERROR: ['HDIT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:15,291 - ERROR: Failed to get ticker 'LIFE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:15,293 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:15,293 - ERROR: ['LIFE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:15,930 - ERROR: Failed to get ticker 'YPAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:15,934 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:15,934 - ERROR: ['YPAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:16,491 - ERROR: Failed to get ticker 'AMRT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:16,493 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:16,493 - ERROR: ['AMRT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:17,154 - ERROR: Failed to get ticker 'UDNG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:17,164 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:17,164 - ERROR: ['UDNG.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:17,673 - ERROR: Failed to get ticker 'BPFI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:17,677 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:17,677 - ERROR: ['BPFI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:18,292 - ERROR: Failed to get ticker 'ASGR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:18,299 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:18,299 - ERROR: ['ASGR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:18,897 - ERROR: Failed to get ticker 'TIRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:18,908 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:18,908 - ERROR: ['TIRA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:19,452 - ERROR: Failed to get ticker 'IPOL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:19,456 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:19,456 - ERROR: ['IPOL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:20,015 - ERROR: Failed to get ticker 'SATU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:20,024 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:20,024 - ERROR: ['SATU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:20,571 - ERROR: Failed to get ticker 'AMOR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:20,572 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:20,572 - ERROR: ['AMOR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:21,333 - ERROR: Failed to get ticker 'MEDC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:21,342 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:21,342 - ERROR: ['MEDC.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:21,965 - ERROR: Failed to get ticker 'PEHA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:21,973 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:21,973 - ERROR: ['PEHA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:22,674 - ERROR: Failed to get ticker 'BTEL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:22,682 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:22,682 - ERROR: ['BTEL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:23,233 - ERROR: Failed to get ticker 'UNIQ.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:23,241 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:23,241 - ERROR: ['UNIQ.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:23,801 - ERROR: Failed to get ticker 'PNLF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:23,810 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:23,810 - ERROR: ['PNLF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:24,360 - ERROR: Failed to get ticker 'CBMF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:24,370 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:24,370 - ERROR: ['CBMF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:24,941 - ERROR: Failed to get ticker 'VISI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:24,948 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:24,948 - ERROR: ['VISI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:25,499 - ERROR: Failed to get ticker 'SBAT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:25,506 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:25,506 - ERROR: ['SBAT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:26,328 - ERROR: Failed to get ticker 'DAYA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:26,334 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:26,334 - ERROR: ['DAYA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:26,946 - ERROR: Failed to get ticker 'UNTD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:26,952 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:26,952 - ERROR: ['UNTD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:27,552 - ERROR: Failed to get ticker 'LABS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:27,563 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:27,563 - ERROR: ['LABS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:28,268 - ERROR: Failed to get ticker 'SUGI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:28,272 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:28,272 - ERROR: ['SUGI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:28,876 - ERROR: Failed to get ticker 'PGLI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:28,880 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:28,880 - ERROR: ['PGLI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:29,592 - ERROR: Failed to get ticker 'JSPT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:29,599 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:29,600 - ERROR: ['JSPT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:30,323 - ERROR: Failed to get ticker 'BLES.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:30,331 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:30,331 - ERROR: ['BLES.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:30,937 - ERROR: Failed to get ticker 'ISEA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:30,942 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:30,942 - ERROR: ['ISEA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:31,518 - ERROR: Failed to get ticker 'BBCA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:31,520 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:31,520 - ERROR: ['BBCA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:32,146 - ERROR: Failed to get ticker 'JIHD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:32,150 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:32,150 - ERROR: ['JIHD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:32,689 - ERROR: Failed to get ticker 'EAST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:32,689 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:32,689 - ERROR: ['EAST.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:33,359 - ERROR: Failed to get ticker 'MDKA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:33,369 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:33,369 - ERROR: ['MDKA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:34,023 - ERROR: Failed to get ticker 'CTTH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:34,030 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:34,030 - ERROR: ['CTTH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:34,692 - ERROR: Failed to get ticker 'DUCK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:34,699 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:34,699 - ERROR: ['DUCK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:35,300 - ERROR: Failed to get ticker 'AGRS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:35,301 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:35,301 - ERROR: ['AGRS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:35,924 - ERROR: Failed to get ticker 'IKAN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:35,929 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:35,929 - ERROR: ['IKAN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:36,704 - ERROR: Failed to get ticker 'NANO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:36,710 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:36,710 - ERROR: ['NANO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:37,241 - ERROR: Failed to get ticker 'NFCX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:37,248 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:37,249 - ERROR: ['NFCX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:37,893 - ERROR: Failed to get ticker 'FORZ.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:37,898 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:37,898 - ERROR: ['FORZ.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:38,447 - ERROR: Failed to get ticker 'MINA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:38,455 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:38,456 - ERROR: ['MINA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:39,120 - ERROR: Failed to get ticker 'FILM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:39,122 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:39,122 - ERROR: ['FILM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:39,665 - ERROR: Failed to get ticker 'GGRP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:39,669 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:39,669 - ERROR: ['GGRP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:40,272 - ERROR: Failed to get ticker 'GOOD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:40,278 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:40,278 - ERROR: ['GOOD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:40,967 - ERROR: Failed to get ticker 'ARKA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:40,968 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:40,968 - ERROR: ['ARKA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:41,626 - ERROR: Failed to get ticker 'JSKY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:41,627 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:41,627 - ERROR: ['JSKY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:42,185 - ERROR: Failed to get ticker 'OLIV.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:42,187 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:42,187 - ERROR: ['OLIV.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:42,843 - ERROR: Failed to get ticker 'LUCK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:42,845 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:42,845 - ERROR: ['LUCK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:43,485 - ERROR: Failed to get ticker 'FWCT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:43,494 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:43,494 - ERROR: ['FWCT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:44,107 - ERROR: Failed to get ticker 'PLAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:44,112 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:44,112 - ERROR: ['PLAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:44,710 - ERROR: Failed to get ticker 'BBYB.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:44,711 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:44,711 - ERROR: ['BBYB.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:45,287 - ERROR: Failed to get ticker 'TCPI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:45,289 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:45,289 - ERROR: ['TCPI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:45,863 - ERROR: Failed to get ticker 'BAPI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:45,868 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:45,868 - ERROR: ['BAPI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:46,489 - ERROR: Failed to get ticker 'POLL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:46,497 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:46,497 - ERROR: ['POLL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:47,062 - ERROR: Failed to get ticker 'ATAP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:47,067 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:47,067 - ERROR: ['ATAP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:47,674 - ERROR: Failed to get ticker 'BGTG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:47,679 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:47,680 - ERROR: ['BGTG.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:48,271 - ERROR: Failed to get ticker 'CLAY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:48,278 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:48,278 - ERROR: ['CLAY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:48,856 - ERROR: Failed to get ticker 'MOLI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:48,861 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:48,861 - ERROR: ['MOLI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:49,476 - ERROR: Failed to get ticker 'BBRI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:49,480 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:49,480 - ERROR: ['BBRI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:50,138 - ERROR: Failed to get ticker 'PSGO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:50,144 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:50,145 - ERROR: ['PSGO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:50,833 - ERROR: Failed to get ticker 'BATR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:50,835 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:50,835 - ERROR: ['BATR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:51,410 - ERROR: Failed to get ticker 'SURI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:51,414 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:51,414 - ERROR: ['SURI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:52,104 - ERROR: Failed to get ticker 'AMMN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:52,113 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:52,113 - ERROR: ['AMMN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:52,642 - ERROR: Failed to get ticker 'KPAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:52,650 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:52,650 - ERROR: ['KPAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:53,159 - ERROR: Failed to get ticker 'MABA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:53,163 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:53,164 - ERROR: ['MABA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:53,813 - ERROR: Failed to get ticker 'TRUE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:53,823 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:53,823 - ERROR: ['TRUE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:54,437 - ERROR: Failed to get ticker 'SCMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:54,442 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:54,442 - ERROR: ['SCMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:55,255 - ERROR: Failed to get ticker 'BRIS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:55,264 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:55,264 - ERROR: ['BRIS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:55,835 - ERROR: Failed to get ticker 'AGRO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:55,842 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:55,842 - ERROR: ['AGRO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:56,442 - ERROR: Failed to get ticker 'AHAP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:56,444 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:56,445 - ERROR: ['AHAP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:57,109 - ERROR: Failed to get ticker 'SBMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:57,110 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:57,110 - ERROR: ['SBMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:57,678 - ERROR: Failed to get ticker 'MAPA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:57,680 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:57,680 - ERROR: ['MAPA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:58,340 - ERROR: Failed to get ticker 'KLAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:58,350 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:58,350 - ERROR: ['KLAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:58,925 - ERROR: Failed to get ticker 'BSML.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:58,928 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:58,928 - ERROR: ['BSML.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:52:59,476 - ERROR: Failed to get ticker 'IATA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:52:59,476 - ERROR: 
+1 Failed download:
+2024-12-18 03:52:59,477 - ERROR: ['IATA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:00,094 - ERROR: Failed to get ticker 'MAPI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:00,098 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:00,098 - ERROR: ['MAPI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:00,596 - ERROR: Failed to get ticker 'KOTA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:00,600 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:00,600 - ERROR: ['KOTA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:01,283 - ERROR: Failed to get ticker 'SDPC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:01,285 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:01,285 - ERROR: ['SDPC.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:01,964 - ERROR: Failed to get ticker 'SWID.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:01,969 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:01,970 - ERROR: ['SWID.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:02,520 - ERROR: Failed to get ticker 'MTRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:02,528 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:02,528 - ERROR: ['MTRA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:03,050 - ERROR: Failed to get ticker 'IBOS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:03,056 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:03,056 - ERROR: ['IBOS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:03,802 - ERROR: Failed to get ticker 'GOTO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:03,806 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:03,807 - ERROR: ['GOTO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:04,418 - ERROR: Failed to get ticker 'KBAG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:04,426 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:04,426 - ERROR: ['KBAG.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:05,000 - ERROR: Failed to get ticker 'GPRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:05,004 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:05,004 - ERROR: ['GPRA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:05,627 - ERROR: Failed to get ticker 'ARKO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:05,630 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:05,630 - ERROR: ['ARKO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:06,323 - ERROR: Failed to get ticker 'ADCP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:06,329 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:06,329 - ERROR: ['ADCP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:06,979 - ERROR: Failed to get ticker 'ASII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:06,980 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:06,980 - ERROR: ['ASII.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:07,538 - ERROR: Failed to get ticker 'PLIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:07,540 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:07,540 - ERROR: ['PLIN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:08,040 - ERROR: Failed to get ticker 'BUAH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:08,042 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:08,042 - ERROR: ['BUAH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:08,609 - ERROR: Failed to get ticker 'BIKE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:08,610 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:08,610 - ERROR: ['BIKE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:10,247 - ERROR: Failed to get ticker 'BUVA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:10,249 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:10,249 - ERROR: ['BUVA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:10,906 - ERROR: Failed to get ticker 'KBLM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:10,912 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:10,912 - ERROR: ['KBLM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:11,479 - ERROR: Failed to get ticker 'ADES.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:11,480 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:11,481 - ERROR: ['ADES.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:12,105 - ERROR: Failed to get ticker 'BOGA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:12,108 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:12,108 - ERROR: ['BOGA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:12,679 - ERROR: Failed to get ticker 'EKAD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:12,686 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:12,686 - ERROR: ['EKAD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:13,318 - ERROR: Failed to get ticker 'SDMU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:13,326 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:13,326 - ERROR: ['SDMU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:13,872 - ERROR: Failed to get ticker 'TLDN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:13,874 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:13,874 - ERROR: ['TLDN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:14,536 - ERROR: Failed to get ticker 'ADRO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:14,542 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:14,543 - ERROR: ['ADRO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:15,201 - ERROR: Failed to get ticker 'RAFI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:15,209 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:15,209 - ERROR: ['RAFI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:15,795 - ERROR: Failed to get ticker 'MBMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:15,797 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:15,797 - ERROR: ['MBMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:16,380 - ERROR: Failed to get ticker 'HILL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:16,384 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:16,384 - ERROR: ['HILL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:16,942 - ERROR: Failed to get ticker 'KAYU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:16,945 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:16,945 - ERROR: ['KAYU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:17,471 - ERROR: Failed to get ticker 'CARE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:17,473 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:17,473 - ERROR: ['CARE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:18,016 - ERROR: Failed to get ticker 'CSMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:18,020 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:18,020 - ERROR: ['CSMI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:18,569 - ERROR: Failed to get ticker 'TOTO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:18,572 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:18,572 - ERROR: ['TOTO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:19,174 - ERROR: Failed to get ticker 'PPGL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:19,181 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:19,182 - ERROR: ['PPGL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:19,860 - ERROR: Failed to get ticker 'KETR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:19,870 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:19,871 - ERROR: ['KETR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:20,392 - ERROR: Failed to get ticker 'PAMG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:20,401 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:20,401 - ERROR: ['PAMG.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:20,968 - ERROR: Failed to get ticker 'PTMP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:20,969 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:20,969 - ERROR: ['PTMP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:21,684 - ERROR: Failed to get ticker 'TIRT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:21,694 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:21,694 - ERROR: ['TIRT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:22,301 - ERROR: Failed to get ticker 'MPPA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:22,304 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:22,304 - ERROR: ['MPPA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:22,896 - ERROR: Failed to get ticker 'EURO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:22,901 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:22,901 - ERROR: ['EURO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:23,703 - ERROR: Failed to get ticker 'KKES.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:23,711 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:23,711 - ERROR: ['KKES.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:24,378 - ERROR: Failed to get ticker 'MDKI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:24,380 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:24,380 - ERROR: ['MDKI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:24,910 - ERROR: Failed to get ticker 'BMAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:24,917 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:24,917 - ERROR: ['BMAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:25,440 - ERROR: Failed to get ticker 'CTRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:25,443 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:25,443 - ERROR: ['CTRA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:25,895 - ERROR: Failed to get ticker 'MORA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:25,897 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:25,897 - ERROR: ['MORA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:26,812 - ERROR: Failed to get ticker 'PPRO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:26,817 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:26,818 - ERROR: ['PPRO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:27,367 - ERROR: Failed to get ticker 'BSBK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:27,375 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:27,375 - ERROR: ['BSBK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:28,147 - ERROR: Failed to get ticker 'DRMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:28,155 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:28,155 - ERROR: ['DRMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:28,809 - ERROR: Failed to get ticker 'INRU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:28,819 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:28,819 - ERROR: ['INRU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:29,404 - ERROR: Failed to get ticker 'MTMH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:29,407 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:29,407 - ERROR: ['MTMH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:30,007 - ERROR: Failed to get ticker 'SRAJ.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:30,016 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:30,017 - ERROR: ['SRAJ.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:30,570 - ERROR: Failed to get ticker 'FPNI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:30,574 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:30,574 - ERROR: ['FPNI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:31,162 - ERROR: Failed to get ticker 'WTON.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:31,163 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:31,163 - ERROR: ['WTON.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:31,717 - ERROR: Failed to get ticker 'LION.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:31,721 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:31,721 - ERROR: ['LION.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:32,437 - ERROR: Failed to get ticker 'TGKA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:32,444 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:32,444 - ERROR: ['TGKA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:33,003 - ERROR: Failed to get ticker 'NAYZ.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:33,013 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:33,013 - ERROR: ['NAYZ.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:33,577 - ERROR: Failed to get ticker 'PWON.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:33,581 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:33,581 - ERROR: ['PWON.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:34,130 - ERROR: Failed to get ticker 'BELI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:34,139 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:34,140 - ERROR: ['BELI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:34,693 - ERROR: Failed to get ticker 'AISA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:34,699 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:34,699 - ERROR: ['AISA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:35,330 - ERROR: Failed to get ticker 'IRSX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:35,337 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:35,337 - ERROR: ['IRSX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:36,975 - ERROR: Failed to get ticker 'PRAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:36,983 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:36,983 - ERROR: ['PRAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:37,696 - ERROR: Failed to get ticker 'KDSI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:37,702 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:37,702 - ERROR: ['KDSI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:38,401 - ERROR: Failed to get ticker 'CANI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:38,401 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:38,401 - ERROR: ['CANI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:39,005 - ERROR: Failed to get ticker 'WINE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:39,010 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:39,010 - ERROR: ['WINE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:39,733 - ERROR: Failed to get ticker 'MPXL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:39,739 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:39,739 - ERROR: ['MPXL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:40,298 - ERROR: Failed to get ticker 'ARTO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:40,307 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:40,308 - ERROR: ['ARTO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:40,888 - ERROR: Failed to get ticker 'RAAM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:40,897 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:40,897 - ERROR: ['RAAM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:41,624 - ERROR: Failed to get ticker 'TMPO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:41,634 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:41,634 - ERROR: ['TMPO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:42,179 - ERROR: Failed to get ticker 'LOPI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:42,182 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:42,182 - ERROR: ['LOPI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:42,721 - ERROR: Failed to get ticker 'VKTR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:42,730 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:42,730 - ERROR: ['VKTR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:43,267 - ERROR: Failed to get ticker 'ELPI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:43,269 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:43,269 - ERROR: ['ELPI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:43,792 - ERROR: Failed to get ticker 'PURI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:43,796 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:43,796 - ERROR: ['PURI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:44,447 - ERROR: Failed to get ticker 'DEAL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:44,456 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:44,456 - ERROR: ['DEAL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:45,075 - ERROR: Failed to get ticker 'MTFN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:45,079 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:45,080 - ERROR: ['MTFN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:45,645 - ERROR: Failed to get ticker 'AKKU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:45,646 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:45,647 - ERROR: ['AKKU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:46,332 - ERROR: Failed to get ticker 'NASA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:46,335 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:46,335 - ERROR: ['NASA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:46,894 - ERROR: Failed to get ticker 'AGAR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:46,896 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:46,896 - ERROR: ['AGAR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:47,458 - ERROR: Failed to get ticker 'SINI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:47,464 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:47,464 - ERROR: ['SINI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:47,989 - ERROR: Failed to get ticker 'ASRM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:47,997 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:47,997 - ERROR: ['ASRM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:48,564 - ERROR: Failed to get ticker 'SIPD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:48,566 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:48,566 - ERROR: ['SIPD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:49,115 - ERROR: Failed to get ticker 'KONI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:49,124 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:49,124 - ERROR: ['KONI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:49,707 - ERROR: Failed to get ticker 'DEFI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:49,716 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:49,717 - ERROR: ['DEFI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:50,290 - ERROR: Failed to get ticker 'TOPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:50,294 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:50,294 - ERROR: ['TOPS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:50,849 - ERROR: Failed to get ticker 'JSMR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:50,852 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:50,852 - ERROR: ['JSMR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:51,366 - ERROR: Failed to get ticker 'CITA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:51,367 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:51,367 - ERROR: ['CITA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:51,926 - ERROR: Failed to get ticker 'HKMU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:51,928 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:51,928 - ERROR: ['HKMU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:52,528 - ERROR: Failed to get ticker 'AMFG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:52,537 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:52,537 - ERROR: ['AMFG.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:53,116 - ERROR: Failed to get ticker 'HOME.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:53,125 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:53,125 - ERROR: ['HOME.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:53,750 - ERROR: Failed to get ticker 'STAR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:53,759 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:53,759 - ERROR: ['STAR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:54,358 - ERROR: Failed to get ticker 'TRIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:54,358 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:54,358 - ERROR: ['TRIN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:54,911 - ERROR: Failed to get ticker 'CFIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:54,918 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:54,918 - ERROR: ['CFIN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:55,578 - ERROR: Failed to get ticker 'TRIO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:55,586 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:55,587 - ERROR: ['TRIO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:56,121 - ERROR: Failed to get ticker 'DSFI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:56,125 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:56,125 - ERROR: ['DSFI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:56,646 - ERROR: Failed to get ticker 'CINT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:56,655 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:56,655 - ERROR: ['CINT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:57,213 - ERROR: Failed to get ticker 'KKGI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:57,213 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:57,213 - ERROR: ['KKGI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:57,761 - ERROR: Failed to get ticker 'KJEN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:57,769 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:57,769 - ERROR: ['KJEN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:58,362 - ERROR: Failed to get ticker 'BEER.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:58,367 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:58,367 - ERROR: ['BEER.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:58,906 - ERROR: Failed to get ticker 'PURE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:58,915 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:58,915 - ERROR: ['PURE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:53:59,626 - ERROR: Failed to get ticker 'HRUM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:53:59,635 - ERROR: 
+1 Failed download:
+2024-12-18 03:53:59,635 - ERROR: ['HRUM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:00,319 - ERROR: Failed to get ticker 'GZCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:00,324 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:00,325 - ERROR: ['GZCO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:00,884 - ERROR: Failed to get ticker 'BKSL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:00,892 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:00,892 - ERROR: ['BKSL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:01,681 - ERROR: Failed to get ticker 'BELL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:01,690 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:01,690 - ERROR: ['BELL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:02,205 - ERROR: Failed to get ticker 'PSKT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:02,214 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:02,214 - ERROR: ['PSKT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:02,785 - ERROR: Failed to get ticker 'INAI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:02,793 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:02,793 - ERROR: ['INAI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:03,356 - ERROR: Failed to get ticker 'APLI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:03,363 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:03,363 - ERROR: ['APLI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:03,996 - ERROR: Failed to get ticker 'TRIS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:04,001 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:04,001 - ERROR: ['TRIS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:04,514 - ERROR: Failed to get ticker 'NASI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:04,519 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:04,519 - ERROR: ['NASI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:05,125 - ERROR: Failed to get ticker 'SCPI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:05,127 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:05,127 - ERROR: ['SCPI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:05,937 - ERROR: Failed to get ticker 'SHIP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:05,946 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:05,946 - ERROR: ['SHIP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:06,468 - ERROR: Failed to get ticker 'BEKS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:06,472 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:06,472 - ERROR: ['BEKS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:07,123 - ERROR: Failed to get ticker 'BLTZ.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:07,131 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:07,131 - ERROR: ['BLTZ.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:07,858 - ERROR: Failed to get ticker 'INTD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:07,861 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:07,861 - ERROR: ['INTD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:08,400 - ERROR: Failed to get ticker 'LPPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:08,409 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:08,409 - ERROR: ['LPPS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:08,963 - ERROR: Failed to get ticker 'IKBI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:08,967 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:08,967 - ERROR: ['IKBI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:09,523 - ERROR: Failed to get ticker 'GLVA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:09,526 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:09,526 - ERROR: ['GLVA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:10,190 - ERROR: Failed to get ticker 'WAPO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:10,191 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:10,191 - ERROR: ['WAPO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:10,788 - ERROR: Failed to get ticker 'WIRG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:10,790 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:10,790 - ERROR: ['WIRG.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:11,386 - ERROR: Failed to get ticker 'MGRO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:11,388 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:11,388 - ERROR: ['MGRO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:11,917 - ERROR: Failed to get ticker 'KOPI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:11,920 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:11,921 - ERROR: ['KOPI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:12,496 - ERROR: Failed to get ticker 'LMSH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:12,505 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:12,505 - ERROR: ['LMSH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:13,081 - ERROR: Failed to get ticker 'DGIK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:13,084 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:13,084 - ERROR: ['DGIK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:13,646 - ERROR: Failed to get ticker 'CPIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:13,651 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:13,651 - ERROR: ['CPIN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:14,258 - ERROR: Failed to get ticker 'SMIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:14,262 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:14,262 - ERROR: ['SMIL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:14,968 - ERROR: Failed to get ticker 'SMKL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:14,971 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:14,971 - ERROR: ['SMKL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:15,697 - ERROR: Failed to get ticker 'CPRI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:15,701 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:15,701 - ERROR: ['CPRI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:16,484 - ERROR: Failed to get ticker 'IBFN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:16,492 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:16,492 - ERROR: ['IBFN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:17,280 - ERROR: Failed to get ticker 'DEWI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:17,283 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:17,283 - ERROR: ['DEWI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:17,899 - ERROR: Failed to get ticker 'ENZO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:17,902 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:17,902 - ERROR: ['ENZO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:18,567 - ERROR: Failed to get ticker 'KIJA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:18,571 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:18,571 - ERROR: ['KIJA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:19,129 - ERROR: Failed to get ticker 'MFMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:19,130 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:19,130 - ERROR: ['MFMI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:19,706 - ERROR: Failed to get ticker 'PGUN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:19,707 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:19,707 - ERROR: ['PGUN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:20,265 - ERROR: Failed to get ticker 'LPGI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:20,266 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:20,266 - ERROR: ['LPGI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:20,785 - ERROR: Failed to get ticker 'CHEM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:20,794 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:20,794 - ERROR: ['CHEM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:21,460 - ERROR: Failed to get ticker 'SOTS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:21,467 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:21,467 - ERROR: ['SOTS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:22,066 - ERROR: Failed to get ticker 'LPCK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:22,067 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:22,067 - ERROR: ['LPCK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:22,671 - ERROR: Failed to get ticker 'KMTR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:22,676 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:22,676 - ERROR: ['KMTR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:23,332 - ERROR: Failed to get ticker 'CASA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:23,341 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:23,341 - ERROR: ['CASA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:23,881 - ERROR: Failed to get ticker 'SMKM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:23,890 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:23,891 - ERROR: ['SMKM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:24,511 - ERROR: Failed to get ticker 'BISI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:24,520 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:24,520 - ERROR: ['BISI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:25,143 - ERROR: Failed to get ticker 'TOTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:25,149 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:25,149 - ERROR: ['TOTL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:25,791 - ERROR: Failed to get ticker 'ESTA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:25,799 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:25,799 - ERROR: ['ESTA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:26,409 - ERROR: Failed to get ticker 'DFAM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:26,409 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:26,410 - ERROR: ['DFAM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:26,937 - ERROR: Failed to get ticker 'GPSO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:26,938 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:26,938 - ERROR: ['GPSO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:27,690 - ERROR: Failed to get ticker 'BHAT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:27,696 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:27,696 - ERROR: ['BHAT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:28,360 - ERROR: Failed to get ticker 'BPII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:28,365 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:28,365 - ERROR: ['BPII.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:28,922 - ERROR: Failed to get ticker 'NINE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:28,925 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:28,925 - ERROR: ['NINE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:29,483 - ERROR: Failed to get ticker 'ALDO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:29,484 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:29,484 - ERROR: ['ALDO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:30,052 - ERROR: Failed to get ticker 'MYOH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:30,054 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:30,054 - ERROR: ['MYOH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:30,581 - ERROR: Failed to get ticker 'BBKP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:30,584 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:30,584 - ERROR: ['BBKP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:31,266 - ERROR: Failed to get ticker 'LPLI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:31,271 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:31,272 - ERROR: ['LPLI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:31,830 - ERROR: Failed to get ticker 'GOLL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:31,840 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:31,840 - ERROR: ['GOLL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:32,379 - ERROR: Failed to get ticker 'SOCI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:32,388 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:32,388 - ERROR: ['SOCI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:32,982 - ERROR: Failed to get ticker 'CBUT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:32,986 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:32,986 - ERROR: ['CBUT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:33,700 - ERROR: Failed to get ticker 'BCAP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:33,705 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:33,705 - ERROR: ['BCAP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:34,461 - ERROR: Failed to get ticker 'BEBS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:34,465 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:34,465 - ERROR: ['BEBS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:34,977 - ERROR: Failed to get ticker 'MARK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:34,983 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:34,983 - ERROR: ['MARK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:35,667 - ERROR: Failed to get ticker 'DOID.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:35,676 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:35,676 - ERROR: ['DOID.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:36,241 - ERROR: Failed to get ticker 'SOSS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:36,245 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:36,245 - ERROR: ['SOSS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:36,777 - ERROR: Failed to get ticker 'ESTI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:36,782 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:36,782 - ERROR: ['ESTI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:37,386 - ERROR: Failed to get ticker 'GWSA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:37,391 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:37,391 - ERROR: ['GWSA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:37,979 - ERROR: Failed to get ticker 'INET.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:37,980 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:37,980 - ERROR: ['INET.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:38,604 - ERROR: Failed to get ticker 'SGRO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:38,609 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:38,609 - ERROR: ['SGRO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:39,201 - ERROR: Failed to get ticker 'MKNT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:39,207 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:39,207 - ERROR: ['MKNT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:39,920 - ERROR: Failed to get ticker 'SMDR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:39,930 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:39,930 - ERROR: ['SMDR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:40,459 - ERROR: Failed to get ticker 'INDS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:40,468 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:40,468 - ERROR: ['INDS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:41,054 - ERROR: Failed to get ticker 'POLI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:41,056 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:41,057 - ERROR: ['POLI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:41,656 - ERROR: Failed to get ticker 'BANK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:41,665 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:41,665 - ERROR: ['BANK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:42,167 - ERROR: Failed to get ticker 'PDPP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:42,172 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:42,172 - ERROR: ['PDPP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:42,698 - ERROR: Failed to get ticker 'KPIG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:42,700 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:42,700 - ERROR: ['KPIG.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:43,350 - ERROR: Failed to get ticker 'MPRO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:43,355 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:43,355 - ERROR: ['MPRO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:43,930 - ERROR: Failed to get ticker 'DMMX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:43,933 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:43,933 - ERROR: ['DMMX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:44,615 - ERROR: Failed to get ticker 'SPTO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:44,622 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:44,622 - ERROR: ['SPTO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:45,515 - ERROR: Failed to get ticker 'POLA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:45,522 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:45,522 - ERROR: ['POLA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:46,182 - ERROR: Failed to get ticker 'EMTK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:46,191 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:46,191 - ERROR: ['EMTK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:46,779 - ERROR: Failed to get ticker 'FUTR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:46,782 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:46,782 - ERROR: ['FUTR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:47,334 - ERROR: Failed to get ticker 'CMNP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:47,340 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:47,340 - ERROR: ['CMNP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:47,973 - ERROR: Failed to get ticker 'ENAK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:47,979 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:47,979 - ERROR: ['ENAK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:48,585 - ERROR: Failed to get ticker 'ESSA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:48,589 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:48,589 - ERROR: ['ESSA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:49,139 - ERROR: Failed to get ticker 'TARA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:49,147 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:49,147 - ERROR: ['TARA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:49,716 - ERROR: Failed to get ticker 'IFII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:49,726 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:49,726 - ERROR: ['IFII.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:50,296 - ERROR: Failed to get ticker 'FIRE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:50,305 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:50,305 - ERROR: ['FIRE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:50,865 - ERROR: Failed to get ticker 'KUAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:50,873 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:50,874 - ERROR: ['KUAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:51,473 - ERROR: Failed to get ticker 'GDST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:51,483 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:51,483 - ERROR: ['GDST.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:52,100 - ERROR: Failed to get ticker 'INPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:52,107 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:52,107 - ERROR: ['INPS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:52,797 - ERROR: Failed to get ticker 'JECC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:52,798 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:52,798 - ERROR: ['JECC.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:53,349 - ERROR: Failed to get ticker 'CLEO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:53,357 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:53,357 - ERROR: ['CLEO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:53,914 - ERROR: Failed to get ticker 'BHIT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:53,915 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:53,915 - ERROR: ['BHIT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:54,529 - ERROR: Failed to get ticker 'MKPI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:54,534 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:54,534 - ERROR: ['MKPI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:55,384 - ERROR: Failed to get ticker 'CSIS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:55,386 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:55,386 - ERROR: ['CSIS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:56,064 - ERROR: Failed to get ticker 'MPMX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:56,074 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:56,074 - ERROR: ['MPMX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:56,687 - ERROR: Failed to get ticker 'RISE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:56,697 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:56,697 - ERROR: ['RISE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:57,221 - ERROR: Failed to get ticker 'MMLP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:57,227 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:57,227 - ERROR: ['MMLP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:57,871 - ERROR: Failed to get ticker 'IFSH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:57,878 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:57,878 - ERROR: ['IFSH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:58,520 - ERROR: Failed to get ticker 'INDY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:58,526 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:58,526 - ERROR: ['INDY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:59,071 - ERROR: Failed to get ticker 'TOBA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:59,080 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:59,080 - ERROR: ['TOBA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:54:59,660 - ERROR: Failed to get ticker 'ABMM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:54:59,669 - ERROR: 
+1 Failed download:
+2024-12-18 03:54:59,669 - ERROR: ['ABMM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:00,228 - ERROR: Failed to get ticker 'IPTV.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:00,237 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:00,238 - ERROR: ['IPTV.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:00,825 - ERROR: Failed to get ticker 'BRNA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:00,828 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:00,828 - ERROR: ['BRNA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:01,419 - ERROR: Failed to get ticker 'ASPI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:01,425 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:01,426 - ERROR: ['ASPI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:02,111 - ERROR: Failed to get ticker 'LPKR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:02,114 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:02,114 - ERROR: ['LPKR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:02,740 - ERROR: Failed to get ticker 'PRIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:02,743 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:02,743 - ERROR: ['PRIM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:03,387 - ERROR: Failed to get ticker 'INCI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:03,393 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:03,393 - ERROR: ['INCI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:03,905 - ERROR: Failed to get ticker 'JAST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:03,911 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:03,911 - ERROR: ['JAST.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:04,558 - ERROR: Failed to get ticker 'TRAM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:04,566 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:04,566 - ERROR: ['TRAM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:05,176 - ERROR: Failed to get ticker 'LPIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:05,184 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:05,184 - ERROR: ['LPIN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:05,793 - ERROR: Failed to get ticker 'LMAX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:05,803 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:05,803 - ERROR: ['LMAX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:06,388 - ERROR: Failed to get ticker 'BIPP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:06,391 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:06,391 - ERROR: ['BIPP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:06,918 - ERROR: Failed to get ticker 'PURA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:06,928 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:06,928 - ERROR: ['PURA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:07,542 - ERROR: Failed to get ticker 'DCII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:07,547 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:07,547 - ERROR: ['DCII.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:08,331 - ERROR: Failed to get ticker 'MBAP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:08,337 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:08,337 - ERROR: ['MBAP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:08,967 - ERROR: Failed to get ticker 'BAJA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:08,976 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:08,976 - ERROR: ['BAJA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:09,562 - ERROR: Failed to get ticker 'LUCY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:09,566 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:09,566 - ERROR: ['LUCY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:10,144 - ERROR: Failed to get ticker 'SMDM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:10,148 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:10,148 - ERROR: ['SMDM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:10,894 - ERROR: Failed to get ticker 'UNVR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:10,900 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:10,900 - ERROR: ['UNVR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:11,426 - ERROR: Failed to get ticker 'BDKR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:11,428 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:11,428 - ERROR: ['BDKR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:11,986 - ERROR: Failed to get ticker 'HELI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:11,996 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:11,996 - ERROR: ['HELI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:12,523 - ERROR: Failed to get ticker 'INOV.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:12,525 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:12,525 - ERROR: ['INOV.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:13,115 - ERROR: Failed to get ticker 'WMPP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:13,120 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:13,120 - ERROR: ['WMPP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:13,667 - ERROR: Failed to get ticker 'PNBS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:13,677 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:13,677 - ERROR: ['PNBS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:14,279 - ERROR: Failed to get ticker 'DADA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:14,281 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:14,281 - ERROR: ['DADA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:14,835 - ERROR: Failed to get ticker 'DIVA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:14,840 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:14,840 - ERROR: ['DIVA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:15,385 - ERROR: Failed to get ticker 'SONA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:15,390 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:15,390 - ERROR: ['SONA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:15,952 - ERROR: Failed to get ticker 'ARGO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:15,957 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:15,957 - ERROR: ['ARGO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:16,519 - ERROR: Failed to get ticker 'KLIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:16,525 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:16,525 - ERROR: ['KLIN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:17,148 - ERROR: Failed to get ticker 'BBHI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:17,154 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:17,154 - ERROR: ['BBHI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:17,767 - ERROR: Failed to get ticker 'HRTA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:17,772 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:17,772 - ERROR: ['HRTA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:18,419 - ERROR: Failed to get ticker 'MSKY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:18,421 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:18,421 - ERROR: ['MSKY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:19,007 - ERROR: Failed to get ticker 'ADHI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:19,009 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:19,009 - ERROR: ['ADHI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:20,612 - ERROR: Failed to get ticker 'BIMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:20,616 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:20,616 - ERROR: ['BIMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:21,166 - ERROR: Failed to get ticker 'HOKI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:21,176 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:21,176 - ERROR: ['HOKI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:21,989 - ERROR: Failed to get ticker 'MAIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:21,996 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:21,996 - ERROR: ['MAIN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:22,816 - ERROR: Failed to get ticker 'RMKO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:22,823 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:22,823 - ERROR: ['RMKO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:23,487 - ERROR: Failed to get ticker 'IMPC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:23,491 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:23,491 - ERROR: ['IMPC.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:24,087 - ERROR: Failed to get ticker 'GMFI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:24,089 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:24,089 - ERROR: ['GMFI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:24,702 - ERROR: Failed to get ticker 'ARCI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:24,707 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:24,707 - ERROR: ['ARCI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:25,268 - ERROR: Failed to get ticker 'WOMF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:25,275 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:25,275 - ERROR: ['WOMF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:25,906 - ERROR: Failed to get ticker 'BPTR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:25,913 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:25,913 - ERROR: ['BPTR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:26,523 - ERROR: Failed to get ticker 'ATIC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:26,527 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:26,527 - ERROR: ['ATIC.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:27,057 - ERROR: Failed to get ticker 'NATO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:27,067 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:27,067 - ERROR: ['NATO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:27,619 - ERROR: Failed to get ticker 'MTLA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:27,624 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:27,624 - ERROR: ['MTLA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:28,162 - ERROR: Failed to get ticker 'CMRY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:28,163 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:28,163 - ERROR: ['CMRY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:28,699 - ERROR: Failed to get ticker 'INKP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:28,701 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:28,701 - ERROR: ['INKP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:29,244 - ERROR: Failed to get ticker 'MTSM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:29,244 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:29,245 - ERROR: ['MTSM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:29,793 - ERROR: Failed to get ticker 'BATA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:29,795 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:29,795 - ERROR: ['BATA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:30,489 - ERROR: Failed to get ticker 'RBMS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:30,492 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:30,492 - ERROR: ['RBMS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:31,020 - ERROR: Failed to get ticker 'RAJA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:31,030 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:31,030 - ERROR: ['RAJA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:31,469 - ERROR: Failed to get ticker 'MTWI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:31,471 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:31,471 - ERROR: ['MTWI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:32,125 - ERROR: Failed to get ticker 'RIGS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:32,129 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:32,129 - ERROR: ['RIGS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:32,683 - ERROR: Failed to get ticker 'CSRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:32,689 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:32,689 - ERROR: ['CSRA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:33,283 - ERROR: Failed to get ticker 'DEPO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:33,287 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:33,287 - ERROR: ['DEPO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:33,821 - ERROR: Failed to get ticker 'IPCM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:33,825 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:33,825 - ERROR: ['IPCM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:34,381 - ERROR: Failed to get ticker 'RDTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:34,383 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:34,383 - ERROR: ['RDTX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:35,032 - ERROR: Failed to get ticker 'NICK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:35,038 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:35,038 - ERROR: ['NICK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:35,585 - ERROR: Failed to get ticker 'BALI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:35,587 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:35,587 - ERROR: ['BALI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:36,126 - ERROR: Failed to get ticker 'FORU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:36,135 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:36,135 - ERROR: ['FORU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:36,668 - ERROR: Failed to get ticker 'ASBI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:36,673 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:36,673 - ERROR: ['ASBI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:37,433 - ERROR: Failed to get ticker 'ROTI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:37,434 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:37,434 - ERROR: ['ROTI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:37,985 - ERROR: Failed to get ticker 'IRRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:37,992 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:37,992 - ERROR: ['IRRA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:38,565 - ERROR: Failed to get ticker 'BIKA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:38,566 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:38,566 - ERROR: ['BIKA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:39,106 - ERROR: Failed to get ticker 'RUNS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:39,113 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:39,113 - ERROR: ['RUNS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:39,822 - ERROR: Failed to get ticker 'ISAT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:39,832 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:39,832 - ERROR: ['ISAT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:40,405 - ERROR: Failed to get ticker 'ITMG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:40,410 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:40,410 - ERROR: ['ITMG.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:41,118 - ERROR: Failed to get ticker 'AUTO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:41,121 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:41,121 - ERROR: ['AUTO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:41,665 - ERROR: Failed to get ticker 'TSPC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:41,670 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:41,670 - ERROR: ['TSPC.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:42,281 - ERROR: Failed to get ticker 'POWR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:42,289 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:42,289 - ERROR: ['POWR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:42,954 - ERROR: Failed to get ticker 'RUIS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:42,961 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:42,961 - ERROR: ['RUIS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:43,515 - ERROR: Failed to get ticker 'PMJS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:43,519 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:43,519 - ERROR: ['PMJS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:44,105 - ERROR: Failed to get ticker 'ARTA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:44,112 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:44,112 - ERROR: ['ARTA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:44,649 - ERROR: Failed to get ticker 'SULI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:44,659 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:44,659 - ERROR: ['SULI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:45,302 - ERROR: Failed to get ticker 'KREN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:45,309 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:45,309 - ERROR: ['KREN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:45,926 - ERROR: Failed to get ticker 'PGEO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:45,933 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:45,933 - ERROR: ['PGEO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:46,551 - ERROR: Failed to get ticker 'BSSR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:46,561 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:46,561 - ERROR: ['BSSR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:47,171 - ERROR: Failed to get ticker 'CCSI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:47,180 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:47,180 - ERROR: ['CCSI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:47,719 - ERROR: Failed to get ticker 'TAXI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:47,729 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:47,729 - ERROR: ['TAXI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:48,330 - ERROR: Failed to get ticker 'JATI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:48,341 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:48,341 - ERROR: ['JATI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:49,012 - ERROR: Failed to get ticker 'BIRD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:49,022 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:49,022 - ERROR: ['BIRD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:49,579 - ERROR: Failed to get ticker 'BSWD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:49,580 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:49,580 - ERROR: ['BSWD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:50,164 - ERROR: Failed to get ticker 'MEDS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:50,167 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:50,167 - ERROR: ['MEDS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:50,782 - ERROR: Failed to get ticker 'FUJI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:50,790 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:50,790 - ERROR: ['FUJI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:51,373 - ERROR: Failed to get ticker 'PTBA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:51,377 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:51,377 - ERROR: ['PTBA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:51,959 - ERROR: Failed to get ticker 'BJTM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:51,965 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:51,965 - ERROR: ['BJTM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:52,517 - ERROR: Failed to get ticker 'JGLE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:52,523 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:52,524 - ERROR: ['JGLE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:53,005 - ERROR: Failed to get ticker 'NRCA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:53,007 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:53,007 - ERROR: ['NRCA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:53,549 - ERROR: Failed to get ticker 'SAMF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:53,556 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:53,556 - ERROR: ['SAMF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:54,104 - ERROR: Failed to get ticker 'TOWR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:54,114 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:54,114 - ERROR: ['TOWR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:54,739 - ERROR: Failed to get ticker 'IDEA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:54,749 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:54,749 - ERROR: ['IDEA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:55,457 - ERROR: Failed to get ticker 'ASRI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:55,461 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:55,461 - ERROR: ['ASRI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:56,021 - ERROR: Failed to get ticker 'ERAA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:56,030 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:56,031 - ERROR: ['ERAA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:56,542 - ERROR: Failed to get ticker 'LPPF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:56,552 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:56,552 - ERROR: ['LPPF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:57,216 - ERROR: Failed to get ticker 'OMRE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:57,221 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:57,221 - ERROR: ['OMRE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:57,859 - ERROR: Failed to get ticker 'BMTR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:57,861 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:57,861 - ERROR: ['BMTR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:58,396 - ERROR: Failed to get ticker 'KPAL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:58,399 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:58,399 - ERROR: ['KPAL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:58,953 - ERROR: Failed to get ticker 'CNMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:58,957 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:58,957 - ERROR: ['CNMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:55:59,649 - ERROR: Failed to get ticker 'TAMU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:55:59,654 - ERROR: 
+1 Failed download:
+2024-12-18 03:55:59,654 - ERROR: ['TAMU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:00,110 - ERROR: Failed to get ticker 'PEGE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:00,111 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:00,112 - ERROR: ['PEGE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:00,674 - ERROR: Failed to get ticker 'SUNI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:00,682 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:00,682 - ERROR: ['SUNI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:01,281 - ERROR: Failed to get ticker 'UVCR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:01,290 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:01,291 - ERROR: ['UVCR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:01,814 - ERROR: Failed to get ticker 'VICI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:01,818 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:01,818 - ERROR: ['VICI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:02,450 - ERROR: Failed to get ticker 'BULL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:02,458 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:02,458 - ERROR: ['BULL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:03,058 - ERROR: Failed to get ticker 'GLOB.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:03,067 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:03,067 - ERROR: ['GLOB.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:03,699 - ERROR: Failed to get ticker 'MAPB.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:03,707 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:03,707 - ERROR: ['MAPB.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:04,287 - ERROR: Failed to get ticker 'KDTN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:04,295 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:04,295 - ERROR: ['KDTN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:04,833 - ERROR: Failed to get ticker 'TPIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:04,842 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:04,842 - ERROR: ['TPIA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:05,422 - ERROR: Failed to get ticker 'BLTA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:05,431 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:05,431 - ERROR: ['BLTA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:05,986 - ERROR: Failed to get ticker 'JTPE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:05,991 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:05,991 - ERROR: ['JTPE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:06,600 - ERROR: Failed to get ticker 'META.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:06,610 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:06,610 - ERROR: ['META.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:07,142 - ERROR: Failed to get ticker 'TDPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:07,148 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:07,148 - ERROR: ['TDPM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:07,834 - ERROR: Failed to get ticker 'ARII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:07,837 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:07,837 - ERROR: ['ARII.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:08,520 - ERROR: Failed to get ticker 'KAEF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:08,528 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:08,528 - ERROR: ['KAEF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:09,125 - ERROR: Failed to get ticker 'PSAB.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:09,126 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:09,126 - ERROR: ['PSAB.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:09,685 - ERROR: Failed to get ticker 'PALM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:09,695 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:09,696 - ERROR: ['PALM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:10,276 - ERROR: Failed to get ticker 'PANR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:10,284 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:10,284 - ERROR: ['PANR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:10,890 - ERROR: Failed to get ticker 'BKDP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:10,893 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:10,893 - ERROR: ['BKDP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:11,523 - ERROR: Failed to get ticker 'CARS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:11,524 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:11,524 - ERROR: ['CARS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:12,326 - ERROR: Failed to get ticker 'FREN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:12,327 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:12,327 - ERROR: ['FREN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:12,881 - ERROR: Failed to get ticker 'MBTO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:12,885 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:12,885 - ERROR: ['MBTO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:13,454 - ERROR: Failed to get ticker 'HERO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:13,464 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:13,464 - ERROR: ['HERO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:14,238 - ERROR: Failed to get ticker 'KOIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:14,243 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:14,243 - ERROR: ['KOIN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:14,824 - ERROR: Failed to get ticker 'BTPN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:14,832 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:14,832 - ERROR: ['BTPN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:15,412 - ERROR: Failed to get ticker 'ISSP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:15,420 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:15,420 - ERROR: ['ISSP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:16,065 - ERROR: Failed to get ticker 'BBSS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:16,068 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:16,068 - ERROR: ['BBSS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:16,659 - ERROR: Failed to get ticker 'ENVY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:16,665 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:16,665 - ERROR: ['ENVY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:17,266 - ERROR: Failed to get ticker 'MCAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:17,273 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:17,273 - ERROR: ['MCAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:17,963 - ERROR: Failed to get ticker 'BMBL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:17,972 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:17,973 - ERROR: ['BMBL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:18,581 - ERROR: Failed to get ticker 'SIMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:18,591 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:18,591 - ERROR: ['SIMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:19,404 - ERROR: Failed to get ticker 'BAUT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:19,412 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:19,412 - ERROR: ['BAUT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:20,105 - ERROR: Failed to get ticker 'CITY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:20,111 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:20,111 - ERROR: ['CITY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:20,725 - ERROR: Failed to get ticker 'PBSA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:20,735 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:20,735 - ERROR: ['PBSA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:21,332 - ERROR: Failed to get ticker 'CUAN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:21,333 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:21,333 - ERROR: ['CUAN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:21,908 - ERROR: Failed to get ticker 'BOLA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:21,912 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:21,912 - ERROR: ['BOLA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:22,473 - ERROR: Failed to get ticker 'IPAC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:22,479 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:22,479 - ERROR: ['IPAC.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:23,060 - ERROR: Failed to get ticker 'DGNS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:23,063 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:23,063 - ERROR: ['DGNS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:23,670 - ERROR: Failed to get ticker 'OILS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:23,671 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:23,671 - ERROR: ['OILS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:24,303 - ERROR: Failed to get ticker 'PZZA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:24,310 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:24,310 - ERROR: ['PZZA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:25,102 - ERROR: Failed to get ticker 'RIMO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:25,108 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:25,108 - ERROR: ['RIMO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:25,664 - ERROR: Failed to get ticker 'SIMP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:25,667 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:25,667 - ERROR: ['SIMP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:26,183 - ERROR: Failed to get ticker 'OKAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:26,185 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:26,186 - ERROR: ['OKAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:26,719 - ERROR: Failed to get ticker 'ASDM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:26,723 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:26,723 - ERROR: ['ASDM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:27,280 - ERROR: Failed to get ticker 'FASW.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:27,282 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:27,282 - ERROR: ['FASW.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:27,974 - ERROR: Failed to get ticker 'SMBR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:27,980 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:27,981 - ERROR: ['SMBR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:28,842 - ERROR: Failed to get ticker 'PBID.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:28,851 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:28,852 - ERROR: ['PBID.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:29,368 - ERROR: Failed to get ticker 'BOLT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:29,368 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:29,369 - ERROR: ['BOLT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:29,988 - ERROR: Failed to get ticker 'ICON.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:29,993 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:29,993 - ERROR: ['ICON.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:30,559 - ERROR: Failed to get ticker 'KBLV.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:30,561 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:30,561 - ERROR: ['KBLV.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:31,080 - ERROR: Failed to get ticker 'NELY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:31,088 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:31,088 - ERROR: ['NELY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:31,658 - ERROR: Failed to get ticker 'CMNT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:31,668 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:31,668 - ERROR: ['CMNT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:32,238 - ERROR: Failed to get ticker 'IDPR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:32,246 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:32,246 - ERROR: ['IDPR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:32,839 - ERROR: Failed to get ticker 'HMSP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:32,842 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:32,842 - ERROR: ['HMSP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:33,499 - ERROR: Failed to get ticker 'PPRE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:33,500 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:33,501 - ERROR: ['PPRE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:34,103 - ERROR: Failed to get ticker 'PTRO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:34,109 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:34,109 - ERROR: ['PTRO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:34,695 - ERROR: Failed to get ticker 'TECH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:34,697 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:34,697 - ERROR: ['TECH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:35,244 - ERROR: Failed to get ticker 'REAL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:35,247 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:35,247 - ERROR: ['REAL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:35,806 - ERROR: Failed to get ticker 'SEMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:35,815 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:35,815 - ERROR: ['SEMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:36,474 - ERROR: Failed to get ticker 'SMGR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:36,476 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:36,476 - ERROR: ['SMGR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:37,089 - ERROR: Failed to get ticker 'WICO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:37,096 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:37,096 - ERROR: ['WICO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:37,761 - ERROR: Failed to get ticker 'WMUU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:37,770 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:37,770 - ERROR: ['WMUU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:38,321 - ERROR: Failed to get ticker 'BAYU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:38,331 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:38,331 - ERROR: ['BAYU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:38,875 - ERROR: Failed to get ticker 'BBRM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:38,878 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:38,878 - ERROR: ['BBRM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:39,444 - ERROR: Failed to get ticker 'MCOL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:39,446 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:39,446 - ERROR: ['MCOL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:40,100 - ERROR: Failed to get ticker 'TRIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:40,105 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:40,105 - ERROR: ['TRIM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:40,956 - ERROR: Failed to get ticker 'NUSA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:40,960 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:40,960 - ERROR: ['NUSA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:41,585 - ERROR: Failed to get ticker 'TLKM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:41,586 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:41,586 - ERROR: ['TLKM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:42,153 - ERROR: Failed to get ticker 'WOWS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:42,154 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:42,154 - ERROR: ['WOWS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:42,972 - ERROR: Failed to get ticker 'DILD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:42,975 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:42,975 - ERROR: ['DILD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:43,506 - ERROR: Failed to get ticker 'PTDU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:43,513 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:43,514 - ERROR: ['PTDU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:44,050 - ERROR: Failed to get ticker 'SMRU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:44,061 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:44,061 - ERROR: ['SMRU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:44,590 - ERROR: Failed to get ticker 'NZIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:44,599 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:44,599 - ERROR: ['NZIA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:45,147 - ERROR: Failed to get ticker 'SOHO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:45,156 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:45,156 - ERROR: ['SOHO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:45,768 - ERROR: Failed to get ticker 'CAKK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:45,770 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:45,770 - ERROR: ['CAKK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:46,363 - ERROR: Failed to get ticker 'OASA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:46,370 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:46,370 - ERROR: ['OASA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:47,121 - ERROR: Failed to get ticker 'POLU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:47,130 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:47,130 - ERROR: ['POLU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:47,688 - ERROR: Failed to get ticker 'SMMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:47,697 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:47,697 - ERROR: ['SMMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:48,237 - ERROR: Failed to get ticker 'TRST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:48,244 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:48,244 - ERROR: ['TRST.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:48,744 - ERROR: Failed to get ticker 'WEGE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:48,747 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:48,747 - ERROR: ['WEGE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:49,232 - ERROR: Failed to get ticker 'BBNI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:49,234 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:49,234 - ERROR: ['BBNI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:49,842 - ERROR: Failed to get ticker 'MIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:49,843 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:49,843 - ERROR: ['MIDI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:50,632 - ERROR: Failed to get ticker 'MYRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:50,634 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:50,635 - ERROR: ['MYRX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:51,174 - ERROR: Failed to get ticker 'PRDA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:51,181 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:51,181 - ERROR: ['PRDA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:51,758 - ERROR: Failed to get ticker 'SMSM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:51,759 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:51,759 - ERROR: ['SMSM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:52,357 - ERROR: Failed to get ticker 'AKSI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:52,367 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:52,367 - ERROR: ['AKSI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:52,917 - ERROR: Failed to get ticker 'SSIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:52,925 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:52,925 - ERROR: ['SSIA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:53,483 - ERROR: Failed to get ticker 'TGRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:53,492 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:53,493 - ERROR: ['TGRA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:54,136 - ERROR: Failed to get ticker 'TRUK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:54,141 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:54,141 - ERROR: ['TRUK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:54,613 - ERROR: Failed to get ticker 'IKAI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:54,623 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:54,623 - ERROR: ['IKAI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:55,167 - ERROR: Failed to get ticker 'TFCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:55,171 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:55,171 - ERROR: ['TFCO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:55,826 - ERROR: Failed to get ticker 'UANG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:55,830 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:55,830 - ERROR: ['UANG.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:56,344 - ERROR: Failed to get ticker 'DMAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:56,349 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:56,349 - ERROR: ['DMAS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:56,971 - ERROR: Failed to get ticker 'LFLO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:56,978 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:56,978 - ERROR: ['LFLO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:57,530 - ERROR: Failed to get ticker 'RALS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:57,535 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:57,535 - ERROR: ['RALS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:58,166 - ERROR: Failed to get ticker 'WOOD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:58,168 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:58,168 - ERROR: ['WOOD.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:58,847 - ERROR: Failed to get ticker 'URBN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:58,857 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:58,857 - ERROR: ['URBN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:59,386 - ERROR: Failed to get ticker 'VAST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:59,394 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:59,394 - ERROR: ['VAST.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:56:59,974 - ERROR: Failed to get ticker 'VOKS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:56:59,984 - ERROR: 
+1 Failed download:
+2024-12-18 03:56:59,984 - ERROR: ['VOKS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:00,536 - ERROR: Failed to get ticker 'VRNA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:00,542 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:00,542 - ERROR: ['VRNA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:01,084 - ERROR: Failed to get ticker 'IKPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:01,091 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:01,091 - ERROR: ['IKPM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:01,706 - ERROR: Failed to get ticker 'WEHA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:01,714 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:01,714 - ERROR: ['WEHA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:02,446 - ERROR: Failed to get ticker 'DNET.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:02,455 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:02,455 - ERROR: ['DNET.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:03,190 - ERROR: Failed to get ticker 'WGSH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:03,196 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:03,196 - ERROR: ['WGSH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:03,772 - ERROR: Failed to get ticker 'WIIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:03,774 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:03,774 - ERROR: ['WIIM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:04,293 - ERROR: Failed to get ticker 'YELO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:04,298 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:04,298 - ERROR: ['YELO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:04,904 - ERROR: Failed to get ticker 'ECII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:04,907 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:04,907 - ERROR: ['ECII.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:05,637 - ERROR: Failed to get ticker 'WSBP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:05,647 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:05,647 - ERROR: ['WSBP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:06,296 - ERROR: Failed to get ticker 'WSKT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:06,306 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:06,306 - ERROR: ['WSKT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:06,959 - ERROR: Failed to get ticker 'IPCC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:06,964 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:06,965 - ERROR: ['IPCC.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:07,543 - ERROR: Failed to get ticker 'ZONE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:07,553 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:07,553 - ERROR: ['ZONE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:08,164 - ERROR: Failed to get ticker 'MBSS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:08,171 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:08,171 - ERROR: ['MBSS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:08,771 - ERROR: Failed to get ticker 'GEMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:08,778 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:08,778 - ERROR: ['GEMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:09,330 - ERROR: Failed to get ticker 'HDFA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:09,337 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:09,337 - ERROR: ['HDFA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:10,059 - ERROR: Failed to get ticker 'MLPL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:10,065 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:10,065 - ERROR: ['MLPL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:11,088 - ERROR: Failed to get ticker 'INPC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:11,089 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:11,089 - ERROR: ['INPC.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:11,760 - ERROR: Failed to get ticker 'KEEN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:11,768 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:11,768 - ERROR: ['KEEN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:12,533 - ERROR: Failed to get ticker 'MPOW.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:12,541 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:12,541 - ERROR: ['MPOW.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:13,068 - ERROR: Failed to get ticker 'MTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:13,068 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:13,068 - ERROR: ['MTPS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:13,724 - ERROR: Failed to get ticker 'INDO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:13,727 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:13,728 - ERROR: ['INDO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:14,271 - ERROR: Failed to get ticker 'JRPT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:14,274 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:14,274 - ERROR: ['JRPT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:14,827 - ERROR: Failed to get ticker 'MIKA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:14,831 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:14,832 - ERROR: ['MIKA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:15,397 - ERROR: Failed to get ticker 'MLPT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:15,401 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:15,401 - ERROR: ['MLPT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:15,947 - ERROR: Failed to get ticker 'MNCN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:15,948 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:15,948 - ERROR: ['MNCN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:16,601 - ERROR: Failed to get ticker 'SUPR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:16,604 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:16,604 - ERROR: ['SUPR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:17,274 - ERROR: Failed to get ticker 'SURE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:17,275 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:17,275 - ERROR: ['SURE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:17,880 - ERROR: Failed to get ticker 'BFIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:17,883 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:17,883 - ERROR: ['BFIN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:18,416 - ERROR: Failed to get ticker 'BNII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:18,422 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:18,422 - ERROR: ['BNII.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:19,056 - ERROR: Failed to get ticker 'DEWA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:19,060 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:19,060 - ERROR: ['DEWA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:20,067 - ERROR: Failed to get ticker 'DKFT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:20,073 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:20,073 - ERROR: ['DKFT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:20,707 - ERROR: Failed to get ticker 'DPUM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:20,715 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:20,715 - ERROR: ['DPUM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:21,261 - ERROR: Failed to get ticker 'IBST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:21,262 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:21,262 - ERROR: ['IBST.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:21,856 - ERROR: Failed to get ticker 'KINO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:21,860 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:21,860 - ERROR: ['KINO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:22,588 - ERROR: Failed to get ticker 'ELTY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:22,590 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:22,590 - ERROR: ['ELTY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:23,116 - ERROR: Failed to get ticker 'INCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:23,117 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:23,117 - ERROR: ['INCO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:23,672 - ERROR: Failed to get ticker 'SRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:23,675 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:23,675 - ERROR: ['SRIL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:25,295 - ERROR: Failed to get ticker 'GIAA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:25,303 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:25,303 - ERROR: ['GIAA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:26,117 - ERROR: Failed to get ticker 'GJTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:26,122 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:26,122 - ERROR: ['GJTL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:26,672 - ERROR: Failed to get ticker 'HDTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:26,678 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:26,678 - ERROR: ['HDTX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:27,247 - ERROR: Failed to get ticker 'ITMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:27,256 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:27,256 - ERROR: ['ITMA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:27,793 - ERROR: Failed to get ticker 'JPFA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:27,803 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:27,803 - ERROR: ['JPFA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:28,371 - ERROR: Failed to get ticker 'KARW.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:28,375 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:28,375 - ERROR: ['KARW.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:28,893 - ERROR: Failed to get ticker 'KBLI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:28,902 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:28,902 - ERROR: ['KBLI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:29,490 - ERROR: Failed to get ticker 'KLBF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:29,500 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:29,500 - ERROR: ['KLBF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:30,136 - ERROR: Failed to get ticker 'MTDL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:30,138 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:30,138 - ERROR: ['MTDL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:30,730 - ERROR: Failed to get ticker 'MYTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:30,739 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:30,739 - ERROR: ['MYTX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:31,269 - ERROR: Failed to get ticker 'PANS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:31,276 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:31,276 - ERROR: ['PANS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:31,837 - ERROR: Failed to get ticker 'PBRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:31,844 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:31,844 - ERROR: ['PBRX.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:32,410 - ERROR: Failed to get ticker 'SAFE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:32,413 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:32,413 - ERROR: ['SAFE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:33,032 - ERROR: Failed to get ticker 'UCID.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:33,041 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:33,041 - ERROR: ['UCID.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:33,593 - ERROR: Failed to get ticker 'UNSP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:33,600 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:33,600 - ERROR: ['UNSP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:34,230 - ERROR: Failed to get ticker 'EPMT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:34,239 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:34,239 - ERROR: ['EPMT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:34,943 - ERROR: Failed to get ticker 'ALMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:34,948 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:34,948 - ERROR: ['ALMI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:35,517 - ERROR: Failed to get ticker 'ANTM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:35,525 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:35,525 - ERROR: ['ANTM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:36,165 - ERROR: Failed to get ticker 'BRAM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:36,175 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:36,175 - ERROR: ['BRAM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:36,967 - ERROR: Failed to get ticker 'BTEK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:36,975 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:36,975 - ERROR: ['BTEK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:37,611 - ERROR: Failed to get ticker 'TKIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:37,613 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:37,613 - ERROR: ['TKIM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:38,170 - ERROR: Failed to get ticker 'RSCH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:38,171 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:38,171 - ERROR: ['RSCH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:38,761 - ERROR: Failed to get ticker 'TELE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:38,766 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:38,766 - ERROR: ['TELE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:39,344 - ERROR: Failed to get ticker 'INDF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:39,353 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:39,353 - ERROR: ['INDF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:40,049 - ERROR: Failed to get ticker 'HOMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:40,052 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:40,052 - ERROR: ['HOMI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:40,701 - ERROR: Failed to get ticker 'EXCL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:40,702 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:40,702 - ERROR: ['EXCL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:41,314 - ERROR: Failed to get ticker 'HOTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:41,320 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:41,320 - ERROR: ['HOTL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:41,878 - ERROR: Failed to get ticker 'HAJJ.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:41,879 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:41,879 - ERROR: ['HAJJ.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:42,456 - ERROR: Failed to get ticker 'KING.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:42,457 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:42,457 - ERROR: ['KING.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:43,010 - ERROR: Failed to get ticker 'MUTU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:43,015 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:43,015 - ERROR: ['MUTU.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:43,661 - ERROR: Failed to get ticker 'ISAP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:43,671 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:43,671 - ERROR: ['ISAP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:44,252 - ERROR: Failed to get ticker 'GRPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:44,258 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:44,258 - ERROR: ['GRPM.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:44,830 - ERROR: Failed to get ticker 'PPRI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:44,835 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:44,835 - ERROR: ['PPRI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:45,680 - ERROR: Failed to get ticker 'HUMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:45,685 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:45,685 - ERROR: ['HUMI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:46,223 - ERROR: Failed to get ticker 'ARMY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:46,233 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:46,233 - ERROR: ['ARMY.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:46,848 - ERROR: Failed to get ticker 'RELF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:46,851 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:46,852 - ERROR: ['RELF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:47,436 - ERROR: Failed to get ticker 'MAXI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:47,436 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:47,437 - ERROR: ['MAXI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:47,982 - ERROR: Failed to get ticker 'MENN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:47,984 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:47,984 - ERROR: ['MENN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:48,449 - ERROR: Failed to get ticker 'DOOH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:48,455 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:48,455 - ERROR: ['DOOH.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:49,016 - ERROR: Failed to get ticker 'NPGF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:49,022 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:49,022 - ERROR: ['NPGF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:49,593 - ERROR: Failed to get ticker 'TAYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:49,600 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:49,600 - ERROR: ['TAYS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:50,129 - ERROR: Failed to get ticker 'AMMS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:50,137 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:50,137 - ERROR: ['AMMS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:50,727 - ERROR: Failed to get ticker 'LCGP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:50,735 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:50,735 - ERROR: ['LCGP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:51,374 - ERROR: Failed to get ticker 'IOTF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:51,382 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:51,382 - ERROR: ['IOTF.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:51,965 - ERROR: Failed to get ticker 'PMMP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:51,969 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:51,969 - ERROR: ['PMMP.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:52,666 - ERROR: Failed to get ticker 'LABA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:52,667 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:52,667 - ERROR: ['LABA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:53,240 - ERROR: Failed to get ticker 'TRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:53,244 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:53,244 - ERROR: ['TRIL.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:53,826 - ERROR: Failed to get ticker 'BESS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:53,831 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:53,831 - ERROR: ['BESS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:54,392 - ERROR: Failed to get ticker 'GTRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:54,398 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:54,398 - ERROR: ['GTRA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:55,003 - ERROR: Failed to get ticker 'TOYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:55,006 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:55,006 - ERROR: ['TOYS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:56,370 - ERROR: Failed to get ticker 'ELIT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:56,380 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:56,380 - ERROR: ['ELIT.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:56,923 - ERROR: Failed to get ticker 'CRSN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:56,926 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:56,926 - ERROR: ['CRSN.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:57,537 - ERROR: Failed to get ticker 'AEGS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:57,545 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:57,545 - ERROR: ['AEGS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:58,112 - ERROR: Failed to get ticker 'SICO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:58,113 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:58,113 - ERROR: ['SICO.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:58,676 - ERROR: Failed to get ticker 'FOLK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:58,681 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:58,681 - ERROR: ['FOLK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:57:59,301 - ERROR: Failed to get ticker 'WINR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:57:59,310 - ERROR: 
+1 Failed download:
+2024-12-18 03:57:59,310 - ERROR: ['WINR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:58:00,132 - ERROR: Failed to get ticker 'GRIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:58:00,140 - ERROR: 
+1 Failed download:
+2024-12-18 03:58:00,140 - ERROR: ['GRIA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:58:00,818 - ERROR: Failed to get ticker 'GULA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:58:00,825 - ERROR: 
+1 Failed download:
+2024-12-18 03:58:00,825 - ERROR: ['GULA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:58:01,384 - ERROR: Failed to get ticker 'STRK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:58:01,392 - ERROR: 
+1 Failed download:
+2024-12-18 03:58:01,392 - ERROR: ['STRK.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:58:01,992 - ERROR: Failed to get ticker 'WIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:58:02,000 - ERROR: 
+1 Failed download:
+2024-12-18 03:58:02,000 - ERROR: ['WIDI.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:58:02,566 - ERROR: Failed to get ticker 'MSIE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:58:02,568 - ERROR: 
+1 Failed download:
+2024-12-18 03:58:02,568 - ERROR: ['MSIE.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:58:03,201 - ERROR: Failed to get ticker 'PADA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:58:03,206 - ERROR: 
+1 Failed download:
+2024-12-18 03:58:03,206 - ERROR: ['PADA.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:58:03,781 - ERROR: Failed to get ticker 'CYBR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:58:03,783 - ERROR: 
+1 Failed download:
+2024-12-18 03:58:03,783 - ERROR: ['CYBR.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:58:04,349 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:58:04,350 - ERROR: 
+1 Failed download:
+2024-12-18 03:58:04,350 - ERROR: ['PTPS.JK']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+2024-12-18 03:58:05,584 - INFO: 0 data are updated on 2024-12-18, the stocks are []
