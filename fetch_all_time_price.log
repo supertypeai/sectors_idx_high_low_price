@@ -4023,3 +4023,101 @@
 2024-12-17 10:24:09,040 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
 2024-12-17 10:24:09,040 - ERROR: $PTPS.JK: possibly delisted; no timezone found
 2024-12-17 10:24:52,020 - INFO: 94 data are updated on 2024-12-17, the stocks are [{"date":"2024-12-10","price":11375,"type":"all_time_high","symbol":"AADI.JK"},{"date":"2024-12-05","price":6650,"type":"all_time_low","symbol":"AADI.JK"},{"date":"2024-12-10","price":11375,"type":"52_w_high","symbol":"AADI.JK"},{"date":"2024-12-05","price":6650,"type":"52_w_low","symbol":"AADI.JK"},{"date":"2024-12-10","price":11375,"type":"90_d_high","symbol":"AADI.JK"},{"date":"2024-12-05","price":6650,"type":"90_d_low","symbol":"AADI.JK"},{"date":"2024-12-10","price":11375,"type":"ytd_high","symbol":"AADI.JK"},{"date":"2024-12-05","price":6650,"type":"ytd_low","symbol":"AADI.JK"},{"date":"2024-12-17","price":1830,"type":"90_d_low","symbol":"SFAN.JK"},{"date":"2024-12-17","price":1160,"type":"52_w_low","symbol":"ADMR.JK"},{"date":"2024-12-17","price":1160,"type":"90_d_low","symbol":"ADMR.JK"},{"date":"2024-12-17","price":1160,"type":"ytd_low","symbol":"ADMR.JK"},{"date":"2024-12-17","price":9975,"type":"52_w_low","symbol":"ADMF.JK"},{"date":"2024-12-17","price":9975,"type":"90_d_low","symbol":"ADMF.JK"},{"date":"2024-12-17","price":9975,"type":"ytd_low","symbol":"ADMF.JK"},{"date":"2024-12-17","price":1165,"type":"52_w_low","symbol":"BBTN.JK"},{"date":"2024-12-17","price":1165,"type":"90_d_low","symbol":"BBTN.JK"},{"date":"2024-12-17","price":1165,"type":"ytd_low","symbol":"BBTN.JK"},{"date":"2024-12-17","price":890,"type":"52_w_low","symbol":"MREI.JK"},{"date":"2024-12-17","price":890,"type":"90_d_low","symbol":"MREI.JK"},{"date":"2024-12-17","price":890,"type":"ytd_low","symbol":"MREI.JK"},{"date":"2024-12-17","price":54,"type":"90_d_low","symbol":"BABP.JK"},{"date":"2024-12-17","price":270,"type":"90_d_low","symbol":"WIKA.JK"},{"date":"2024-12-17","price":645,"type":"90_d_low","symbol":"ASSA.JK"},{"date":"2024-12-17","price":3600,"type":"52_w_low","symbol":"DUTI.JK"},{"date":"2024-12-17","price":3600,"type":"90_d_low","symbol":"DUTI.JK"},{"date":"2024-12-17","price":3600,"type":"ytd_low","symbol":"DUTI.JK"},{"date":"2024-12-17","price":478,"type":"52_w_low","symbol":"RANC.JK"},{"date":"2024-12-17","price":478,"type":"90_d_low","symbol":"RANC.JK"},{"date":"2024-12-17","price":478,"type":"ytd_low","symbol":"RANC.JK"},{"date":"2024-12-17","price":366,"type":"90_d_low","symbol":"PTPP.JK"},{"date":"2024-12-17","price":63,"type":"90_d_low","symbol":"SMGA.JK"},{"date":"2024-12-17","price":610,"type":"90_d_low","symbol":"TPMA.JK"},{"date":"2024-12-17","price":790,"type":"90_d_low","symbol":"NCKL.JK"},{"date":"2024-12-17","price":565,"type":"90_d_low","symbol":"SNLK.JK"},{"date":"2024-12-17","price":1005,"type":"90_d_low","symbol":"SSMS.JK"},{"date":"2024-12-17","price":424,"type":"90_d_low","symbol":"WINS.JK"},{"date":"2024-12-17","price":234,"type":"90_d_low","symbol":"MKAP.JK"},{"date":"2024-12-17","price":550,"type":"90_d_low","symbol":"TIFA.JK"},{"date":"2024-12-17","price":64,"type":"52_w_low","symbol":"CASH.JK"},{"date":"2024-12-17","price":64,"type":"90_d_low","symbol":"CASH.JK"},{"date":"2024-12-17","price":64,"type":"ytd_low","symbol":"CASH.JK"},{"date":"2024-12-17","price":940,"type":"52_w_low","symbol":"IMAS.JK"},{"date":"2024-12-17","price":940,"type":"90_d_low","symbol":"IMAS.JK"},{"date":"2024-12-17","price":940,"type":"ytd_low","symbol":"IMAS.JK"},{"date":"2024-12-17","price":1310,"type":"90_d_low","symbol":"NISP.JK"},{"date":"2024-12-17","price":362,"type":"90_d_high","symbol":"YPAS.JK"},{"date":"2024-12-17","price":1040,"type":"52_w_low","symbol":"MEDC.JK"},{"date":"2024-12-17","price":1040,"type":"90_d_low","symbol":"MEDC.JK"},{"date":"2024-12-17","price":1040,"type":"ytd_low","symbol":"MEDC.JK"},{"date":"2024-12-17","price":98,"type":"all_time_low","symbol":"VISI.JK"},{"date":"2024-12-17","price":98,"type":"52_w_low","symbol":"VISI.JK"},{"date":"2024-12-17","price":98,"type":"90_d_low","symbol":"VISI.JK"},{"date":"2024-12-17","price":98,"type":"ytd_low","symbol":"VISI.JK"},{"date":"2024-12-17","price":94,"type":"90_d_low","symbol":"UNTD.JK"},{"date":"2024-12-17","price":228,"type":"90_d_low","symbol":"BBYB.JK"},{"date":"2024-12-17","price":220,"type":"90_d_low","symbol":"AGRO.JK"},{"date":"2024-12-17","price":1350,"type":"90_d_low","symbol":"MAPI.JK"},{"date":"2024-12-17","price":86,"type":"90_d_low","symbol":"GPRA.JK"},{"date":"2024-12-17","price":500,"type":"90_d_low","symbol":"BIKE.JK"},{"date":"2024-12-17","price":9050,"type":"90_d_low","symbol":"ADES.JK"},{"date":"2024-12-17","price":184,"type":"90_d_high","symbol":"CARE.JK"},{"date":"2024-12-17","price":56,"type":"90_d_low","symbol":"PTMP.JK"},{"date":"2024-12-17","price":95,"type":"52_w_low","symbol":"EURO.JK"},{"date":"2024-12-17","price":95,"type":"90_d_low","symbol":"EURO.JK"},{"date":"2024-12-17","price":95,"type":"ytd_low","symbol":"EURO.JK"},{"date":"2024-12-17","price":2260,"type":"90_d_low","symbol":"SRAJ.JK"},{"date":"2024-12-17","price":79,"type":"90_d_low","symbol":"WTON.JK"},{"date":"2024-12-17","price":392,"type":"90_d_low","symbol":"PWON.JK"},{"date":"2024-12-17","price":300,"type":"52_w_low","symbol":"RAAM.JK"},{"date":"2024-12-17","price":300,"type":"90_d_low","symbol":"RAAM.JK"},{"date":"2024-12-17","price":300,"type":"ytd_low","symbol":"RAAM.JK"},{"date":"2024-12-17","price":117,"type":"90_d_low","symbol":"TRIN.JK"},{"date":"2024-12-17","price":110,"type":"90_d_high","symbol":"KJEN.JK"},{"date":"2024-12-17","price":1060,"type":"90_d_low","symbol":"HRUM.JK"},{"date":"2024-12-17","price":322,"type":"90_d_low","symbol":"GLVA.JK"},{"date":"2024-12-17","price":134,"type":"90_d_high","symbol":"WAPO.JK"},{"date":"2024-12-17","price":84,"type":"90_d_low","symbol":"WIRG.JK"},{"date":"2024-12-17","price":545,"type":"90_d_low","symbol":"LPCK.JK"},{"date":"2024-12-17","price":54,"type":"90_d_low","symbol":"BCAP.JK"},{"date":"2024-12-17","price":143,"type":"90_d_low","symbol":"KPIG.JK"},{"date":"2024-12-17","price":278,"type":"90_d_high","symbol":"DMMX.JK"},{"date":"2024-12-17","price":416,"type":"90_d_low","symbol":"TOBA.JK"},{"date":"2024-12-17","price":340,"type":"90_d_low","symbol":"HRTA.JK"},{"date":"2024-12-17","price":242,"type":"90_d_low","symbol":"ADHI.JK"},{"date":"2024-12-17","price":7000,"type":"52_w_low","symbol":"INKP.JK"},{"date":"2024-12-17","price":7000,"type":"90_d_low","symbol":"INKP.JK"},{"date":"2024-12-17","price":7000,"type":"ytd_low","symbol":"INKP.JK"},{"date":"2024-12-17","price":900,"type":"52_w_low","symbol":"PGEO.JK"},{"date":"2024-12-17","price":900,"type":"90_d_low","symbol":"PGEO.JK"},{"date":"2024-12-17","price":900,"type":"ytd_low","symbol":"PGEO.JK"},{"date":"2024-12-17","price":1585,"type":"90_d_low","symbol":"BIRD.JK"},{"date":"2024-12-17","price":665,"type":"90_d_low","symbol":"TOWR.JK"},{"date":"2024-12-17","price":575,"type":"90_d_low","symbol":"VICI.JK"}]
+2024-12-18 03:21:38,811 - INFO: Program started
+2024-12-18 03:25:26,103 - ERROR: Failed to get ticker 'GTRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:26,104 - ERROR: $GTRA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:26,106 - ERROR: Failed to get ticker 'GTRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:26,106 - ERROR: $GTRA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:26,107 - ERROR: Failed to get ticker 'GTRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:26,108 - ERROR: $GTRA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:26,780 - ERROR: Failed to get ticker 'TOYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:26,780 - ERROR: $TOYS.JK: possibly delisted; no timezone found
+2024-12-18 03:25:26,782 - ERROR: Failed to get ticker 'TOYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:26,782 - ERROR: $TOYS.JK: possibly delisted; no timezone found
+2024-12-18 03:25:26,784 - ERROR: Failed to get ticker 'TOYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:26,784 - ERROR: $TOYS.JK: possibly delisted; no timezone found
+2024-12-18 03:25:27,473 - ERROR: Failed to get ticker 'ELIT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:27,473 - ERROR: $ELIT.JK: possibly delisted; no timezone found
+2024-12-18 03:25:27,475 - ERROR: Failed to get ticker 'ELIT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:27,475 - ERROR: $ELIT.JK: possibly delisted; no timezone found
+2024-12-18 03:25:27,477 - ERROR: Failed to get ticker 'ELIT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:27,477 - ERROR: $ELIT.JK: possibly delisted; no timezone found
+2024-12-18 03:25:28,265 - ERROR: Failed to get ticker 'CRSN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:28,265 - ERROR: $CRSN.JK: possibly delisted; no timezone found
+2024-12-18 03:25:28,267 - ERROR: Failed to get ticker 'CRSN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:28,267 - ERROR: $CRSN.JK: possibly delisted; no timezone found
+2024-12-18 03:25:28,269 - ERROR: Failed to get ticker 'CRSN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:28,269 - ERROR: $CRSN.JK: possibly delisted; no timezone found
+2024-12-18 03:25:29,196 - ERROR: Failed to get ticker 'AEGS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:29,197 - ERROR: $AEGS.JK: possibly delisted; no timezone found
+2024-12-18 03:25:29,199 - ERROR: Failed to get ticker 'AEGS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:29,199 - ERROR: $AEGS.JK: possibly delisted; no timezone found
+2024-12-18 03:25:29,200 - ERROR: Failed to get ticker 'AEGS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:29,201 - ERROR: $AEGS.JK: possibly delisted; no timezone found
+2024-12-18 03:25:29,958 - ERROR: Failed to get ticker 'SICO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:29,958 - ERROR: $SICO.JK: possibly delisted; no timezone found
+2024-12-18 03:25:29,960 - ERROR: Failed to get ticker 'SICO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:29,960 - ERROR: $SICO.JK: possibly delisted; no timezone found
+2024-12-18 03:25:29,962 - ERROR: Failed to get ticker 'SICO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:29,962 - ERROR: $SICO.JK: possibly delisted; no timezone found
+2024-12-18 03:25:30,784 - ERROR: Failed to get ticker 'FOLK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:30,784 - ERROR: $FOLK.JK: possibly delisted; no timezone found
+2024-12-18 03:25:30,786 - ERROR: Failed to get ticker 'FOLK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:30,786 - ERROR: $FOLK.JK: possibly delisted; no timezone found
+2024-12-18 03:25:30,788 - ERROR: Failed to get ticker 'FOLK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:30,788 - ERROR: $FOLK.JK: possibly delisted; no timezone found
+2024-12-18 03:25:31,615 - ERROR: Failed to get ticker 'WINR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:31,615 - ERROR: $WINR.JK: possibly delisted; no timezone found
+2024-12-18 03:25:31,617 - ERROR: Failed to get ticker 'WINR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:31,617 - ERROR: $WINR.JK: possibly delisted; no timezone found
+2024-12-18 03:25:31,619 - ERROR: Failed to get ticker 'WINR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:31,619 - ERROR: $WINR.JK: possibly delisted; no timezone found
+2024-12-18 03:25:32,254 - ERROR: Failed to get ticker 'GRIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:32,255 - ERROR: $GRIA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:32,256 - ERROR: Failed to get ticker 'GRIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:32,257 - ERROR: $GRIA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:32,258 - ERROR: Failed to get ticker 'GRIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:32,258 - ERROR: $GRIA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:32,971 - ERROR: Failed to get ticker 'GULA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:32,971 - ERROR: $GULA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:32,973 - ERROR: Failed to get ticker 'GULA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:32,973 - ERROR: $GULA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:32,974 - ERROR: Failed to get ticker 'GULA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:32,975 - ERROR: $GULA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:33,824 - ERROR: Failed to get ticker 'STRK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:33,824 - ERROR: $STRK.JK: possibly delisted; no timezone found
+2024-12-18 03:25:33,826 - ERROR: Failed to get ticker 'STRK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:33,826 - ERROR: $STRK.JK: possibly delisted; no timezone found
+2024-12-18 03:25:33,828 - ERROR: Failed to get ticker 'STRK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:33,828 - ERROR: $STRK.JK: possibly delisted; no timezone found
+2024-12-18 03:25:34,745 - ERROR: Failed to get ticker 'WIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:34,746 - ERROR: $WIDI.JK: possibly delisted; no timezone found
+2024-12-18 03:25:34,747 - ERROR: Failed to get ticker 'WIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:34,748 - ERROR: $WIDI.JK: possibly delisted; no timezone found
+2024-12-18 03:25:34,749 - ERROR: Failed to get ticker 'WIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:34,749 - ERROR: $WIDI.JK: possibly delisted; no timezone found
+2024-12-18 03:25:35,484 - ERROR: Failed to get ticker 'MSIE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:35,484 - ERROR: $MSIE.JK: possibly delisted; no timezone found
+2024-12-18 03:25:35,486 - ERROR: Failed to get ticker 'MSIE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:35,486 - ERROR: $MSIE.JK: possibly delisted; no timezone found
+2024-12-18 03:25:35,488 - ERROR: Failed to get ticker 'MSIE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:35,488 - ERROR: $MSIE.JK: possibly delisted; no timezone found
+2024-12-18 03:25:36,650 - ERROR: Failed to get ticker 'PADA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:36,651 - ERROR: $PADA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:36,652 - ERROR: Failed to get ticker 'PADA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:36,653 - ERROR: $PADA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:36,654 - ERROR: Failed to get ticker 'PADA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:36,654 - ERROR: $PADA.JK: possibly delisted; no timezone found
+2024-12-18 03:25:37,688 - ERROR: Failed to get ticker 'CYBR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:37,688 - ERROR: $CYBR.JK: possibly delisted; no timezone found
+2024-12-18 03:25:37,690 - ERROR: Failed to get ticker 'CYBR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:37,690 - ERROR: $CYBR.JK: possibly delisted; no timezone found
+2024-12-18 03:25:37,692 - ERROR: Failed to get ticker 'CYBR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:37,692 - ERROR: $CYBR.JK: possibly delisted; no timezone found
+2024-12-18 03:25:38,407 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:38,407 - ERROR: $PTPS.JK: possibly delisted; no timezone found
+2024-12-18 03:25:38,409 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:38,409 - ERROR: $PTPS.JK: possibly delisted; no timezone found
+2024-12-18 03:25:38,410 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:25:38,411 - ERROR: $PTPS.JK: possibly delisted; no timezone found
+2024-12-18 03:25:56,072 - INFO: 48 data are updated on 2024-12-18, the stocks are [{"date":"2024-12-18","price":6075,"type":"90_d_low","symbol":"AALI.JK"},{"date":"2024-12-18","price":9950,"type":"52_w_low","symbol":"ADMF.JK"},{"date":"2024-12-18","price":9950,"type":"90_d_low","symbol":"ADMF.JK"},{"date":"2024-12-18","price":9950,"type":"ytd_low","symbol":"ADMF.JK"},{"date":"2024-12-18","price":75,"type":"90_d_low","symbol":"PSDN.JK"},{"date":"2024-12-18","price":376,"type":"all_time_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":376,"type":"52_w_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":376,"type":"90_d_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":376,"type":"ytd_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":3580,"type":"52_w_low","symbol":"DUTI.JK"},{"date":"2024-12-18","price":3580,"type":"90_d_low","symbol":"DUTI.JK"},{"date":"2024-12-18","price":3580,"type":"ytd_low","symbol":"DUTI.JK"},{"date":"2024-12-18","price":494,"type":"90_d_low","symbol":"SMRA.JK"},{"date":"2024-12-18","price":59,"type":"all_time_low","symbol":"SMGA.JK"},{"date":"2024-12-18","price":59,"type":"52_w_low","symbol":"SMGA.JK"},{"date":"2024-12-18","price":59,"type":"90_d_low","symbol":"SMGA.JK"},{"date":"2024-12-18","price":59,"type":"ytd_low","symbol":"SMGA.JK"},{"date":"2024-12-18","price":81,"type":"90_d_low","symbol":"JKON.JK"},{"date":"2024-12-18","price":17,"type":"90_d_high","symbol":"CNKO.JK"},{"date":"2024-12-18","price":585,"type":"90_d_low","symbol":"BNBA.JK"},{"date":"2024-12-18","price":398,"type":"90_d_high","symbol":"YPAS.JK"},{"date":"2024-12-18","price":1015,"type":"52_w_low","symbol":"MEDC.JK"},{"date":"2024-12-18","price":1015,"type":"90_d_low","symbol":"MEDC.JK"},{"date":"2024-12-18","price":1015,"type":"ytd_low","symbol":"MEDC.JK"},{"date":"2024-12-18","price":28,"type":"90_d_high","symbol":"ARKA.JK"},{"date":"2024-12-18","price":4130,"type":"90_d_low","symbol":"BBRI.JK"},{"date":"2024-12-18","price":53,"type":"90_d_low","symbol":"PTMP.JK"},{"date":"2024-12-18","price":4220,"type":"52_w_low","symbol":"JSMR.JK"},{"date":"2024-12-18","price":4220,"type":"90_d_low","symbol":"JSMR.JK"},{"date":"2024-12-18","price":4220,"type":"ytd_low","symbol":"JSMR.JK"},{"date":"2024-12-18","price":116,"type":"90_d_low","symbol":"TRIN.JK"},{"date":"2024-12-18","price":1055,"type":"90_d_low","symbol":"HRUM.JK"},{"date":"2024-12-18","price":320,"type":"90_d_low","symbol":"GLVA.JK"},{"date":"2024-12-18","price":13,"type":"90_d_low","symbol":"IBFN.JK"},{"date":"2024-12-18","price":69,"type":"90_d_low","symbol":"SMKM.JK"},{"date":"2024-12-18","price":6950,"type":"52_w_low","symbol":"INKP.JK"},{"date":"2024-12-18","price":6950,"type":"90_d_low","symbol":"INKP.JK"},{"date":"2024-12-18","price":6950,"type":"ytd_low","symbol":"INKP.JK"},{"date":"2024-12-18","price":1565,"type":"90_d_low","symbol":"BIRD.JK"},{"date":"2024-12-18","price":145,"type":"90_d_low","symbol":"ASRI.JK"},{"date":"2024-12-18","price":130,"type":"90_d_high","symbol":"OILS.JK"},{"date":"2024-12-18","price":4410,"type":"90_d_low","symbol":"BBNI.JK"},{"date":"2024-12-18","price":112,"type":"90_d_low","symbol":"WEHA.JK"},{"date":"2024-12-18","price":120,"type":"90_d_low","symbol":"HDFA.JK"},{"date":"2024-12-18","price":590,"type":"90_d_low","symbol":"MTDL.JK"},{"date":"2024-12-18","price":398,"type":"52_w_high","symbol":"HOMI.JK"},{"date":"2024-12-18","price":398,"type":"90_d_high","symbol":"HOMI.JK"},{"date":"2024-12-18","price":398,"type":"ytd_high","symbol":"HOMI.JK"}]
