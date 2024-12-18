@@ -1,4 +1,4 @@
-name: All Time Price Data Fetching
+name: All Time Price Data Fetching batch 1 and 2
 
 on:
   schedule:
@@ -34,11 +34,6 @@ jobs:
         SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
         SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
       run: python main.py 2
-    - name: Run Python Script batch 3
-      env:
-        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-        SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-      run: python main.py 3
    
     - name: commit files
       run: |
