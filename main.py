@@ -139,7 +139,7 @@ for i in act_symbol["symbol"]:
 
     result["price"] = result["price"].astype('int')
 
-    result["date"] = result['date'].dt.date.astype('str')
+    result["date"] = result['date'].astype('str')
 
     result.reset_index(inplace=True,drop=True)
 
