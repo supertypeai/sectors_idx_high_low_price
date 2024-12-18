@@ -131,11 +131,11 @@ def main():
     
     all_df = pd.DataFrame()
 
-    if args.batch = 1
+    if args.batch == 1:
         act_symbol = act_symbol.iloc[0:400,:]
-    elif args.batch = 2:
+    elif args.batch == 2:
         act_symbol = act_symbol.iloc[400:800,:]
-    elif args.batch = 3:
+    elif args.batch == 3:
         act_symbol = act_symbol.iloc[800:,:]
     
 # Fetch historical all time price data for every stock
