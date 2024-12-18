@@ -1,6 +1,7 @@
 import yfinance as yf
 import pandas as pd
 from datetime import datetime, timedelta, date
+import time
 
 
 from dotenv import load_dotenv
@@ -110,63 +111,62 @@ def get_ytd_price(stock):
 
     return price_ytd_high,price_ytd_low
 
-stock = get_data("SIMA.JK")
+# Initiate Supabase DB
+load_dotenv()
+url = os.getenv("SUPABASE_URL")
+key = os.getenv("SUPABASE_KEY")
+supabase = create_client(url, key)
 
-print(stock)
-# # Initiate Supabase DB
-# load_dotenv()
-# url = os.getenv("SUPABASE_URL")
-# key = os.getenv("SUPABASE_KEY")
-# supabase = create_client(url, key)
+initiate_logging(LOG_FILENAME)
 
-# initiate_logging(LOG_FILENAME)
+# Get active company list
+response = supabase.table('idx_active_company_profile').select('symbol').execute()
+act_symbol = pd.DataFrame(response.data)
 
-# # Get active company list
-# response = supabase.table('idx_active_company_profile').select('symbol').execute()
-# act_symbol = pd.DataFrame(response.data)
+all_df = pd.DataFrame()
 
-# all_df = pd.DataFrame()
-
-# # Fetch historical all time price data for every stock
-# for i in act_symbol["symbol"]:
+# Fetch historical all time price data for every stock
+for i in act_symbol["symbol"]:
         
-#     stock = get_data(i)
-#     stock_high, stock_low = get_all_time_price(stock)
-#     price_52w_high, price_52w_low = get_52w_price(stock)
-#     price_90d_high, price_90d_low = get_90d_price(stock)
-#     price_ytd_high, price_ytd_low = get_ytd_price(stock)
+    stock = get_data(i)
+    stock_high, stock_low = get_all_time_price(stock)
+    price_52w_high, price_52w_low = get_52w_price(stock)
+    price_90d_high, price_90d_low = get_90d_price(stock)
+    price_ytd_high, price_ytd_low = get_ytd_price(stock)
     
-#     # Combine all price status data
-#     result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low,price_90d_high,price_90d_low,price_ytd_high,price_ytd_low])
-#     result["symbol"] = i
+    # Combine all price status data
+    result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low,price_90d_high,price_90d_low,price_ytd_high,price_ytd_low])
+    result["symbol"] = i
 
-#     result["price"] = result["price"].astype('int')
+    result["price"] = result["price"].astype('int')
 
-#     result["date"] = result['date'].astype('str')
+    result["date"] = result['date'].astype('str')
 
-#     result.reset_index(inplace=True,drop=True)
+    result.reset_index(inplace=True,drop=True)
 
-#     all_df = pd.concat([all_df,result])
+    all_df = pd.concat([all_df,result])
 
-#     print(f"Finish for stock {i}")
+    print(f"Finish for stock {i}")
 
-# # Collect existing all time price data
-# response = supabase.table('idx_all_time_price').select('*').execute()
-# at_price_hist = pd.DataFrame(response.data)
+    time.sleep(2)
 
-# # Remove unchanged all time price data
-# update_df = pd.merge(
-#     all_df, 
-#     at_price_hist, 
-#     how='left', 
-#     indicator=True
-# ).query('_merge == "left_only"').drop('_merge', axis=1)
+# Collect existing all time price data
+response = supabase.table('idx_all_time_price').select('*').execute()
+at_price_hist = pd.DataFrame(response.data)
 
-# # Upload the data into supabase
-# for record in update_df.to_dict(orient="records"):
-#     try:
-#         supabase.table('idx_all_time_price').upsert(record).execute()
-#     except:
-#         print("Financial report for the symbol is already available in the database")
+# Remove unchanged all time price data
+update_df = pd.merge(
+    all_df, 
+    at_price_hist, 
+    how='left', 
+    indicator=True
+).query('_merge == "left_only"').drop('_merge', axis=1)
 
-# logging.info(f"{update_df.shape[0]} data are updated on {date.today()}, the stocks are {update_df.to_json(orient='records')}")
+# Upload the data into supabase
+for record in update_df.to_dict(orient="records"):
+    try:
+        supabase.table('idx_all_time_price').upsert(record).execute()
+    except:
+        print("Financial report for the symbol is already available in the database")
+
+logging.info(f"{update_df.shape[0]} data are updated on {date.today()}, the stocks are {update_df.to_json(orient='records')}")
