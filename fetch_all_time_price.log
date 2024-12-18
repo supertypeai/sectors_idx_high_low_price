@@ -4121,3 +4121,746 @@
 2024-12-18 03:25:38,410 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
 2024-12-18 03:25:38,411 - ERROR: $PTPS.JK: possibly delisted; no timezone found
 2024-12-18 03:25:56,072 - INFO: 48 data are updated on 2024-12-18, the stocks are [{"date":"2024-12-18","price":6075,"type":"90_d_low","symbol":"AALI.JK"},{"date":"2024-12-18","price":9950,"type":"52_w_low","symbol":"ADMF.JK"},{"date":"2024-12-18","price":9950,"type":"90_d_low","symbol":"ADMF.JK"},{"date":"2024-12-18","price":9950,"type":"ytd_low","symbol":"ADMF.JK"},{"date":"2024-12-18","price":75,"type":"90_d_low","symbol":"PSDN.JK"},{"date":"2024-12-18","price":376,"type":"all_time_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":376,"type":"52_w_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":376,"type":"90_d_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":376,"type":"ytd_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":3580,"type":"52_w_low","symbol":"DUTI.JK"},{"date":"2024-12-18","price":3580,"type":"90_d_low","symbol":"DUTI.JK"},{"date":"2024-12-18","price":3580,"type":"ytd_low","symbol":"DUTI.JK"},{"date":"2024-12-18","price":494,"type":"90_d_low","symbol":"SMRA.JK"},{"date":"2024-12-18","price":59,"type":"all_time_low","symbol":"SMGA.JK"},{"date":"2024-12-18","price":59,"type":"52_w_low","symbol":"SMGA.JK"},{"date":"2024-12-18","price":59,"type":"90_d_low","symbol":"SMGA.JK"},{"date":"2024-12-18","price":59,"type":"ytd_low","symbol":"SMGA.JK"},{"date":"2024-12-18","price":81,"type":"90_d_low","symbol":"JKON.JK"},{"date":"2024-12-18","price":17,"type":"90_d_high","symbol":"CNKO.JK"},{"date":"2024-12-18","price":585,"type":"90_d_low","symbol":"BNBA.JK"},{"date":"2024-12-18","price":398,"type":"90_d_high","symbol":"YPAS.JK"},{"date":"2024-12-18","price":1015,"type":"52_w_low","symbol":"MEDC.JK"},{"date":"2024-12-18","price":1015,"type":"90_d_low","symbol":"MEDC.JK"},{"date":"2024-12-18","price":1015,"type":"ytd_low","symbol":"MEDC.JK"},{"date":"2024-12-18","price":28,"type":"90_d_high","symbol":"ARKA.JK"},{"date":"2024-12-18","price":4130,"type":"90_d_low","symbol":"BBRI.JK"},{"date":"2024-12-18","price":53,"type":"90_d_low","symbol":"PTMP.JK"},{"date":"2024-12-18","price":4220,"type":"52_w_low","symbol":"JSMR.JK"},{"date":"2024-12-18","price":4220,"type":"90_d_low","symbol":"JSMR.JK"},{"date":"2024-12-18","price":4220,"type":"ytd_low","symbol":"JSMR.JK"},{"date":"2024-12-18","price":116,"type":"90_d_low","symbol":"TRIN.JK"},{"date":"2024-12-18","price":1055,"type":"90_d_low","symbol":"HRUM.JK"},{"date":"2024-12-18","price":320,"type":"90_d_low","symbol":"GLVA.JK"},{"date":"2024-12-18","price":13,"type":"90_d_low","symbol":"IBFN.JK"},{"date":"2024-12-18","price":69,"type":"90_d_low","symbol":"SMKM.JK"},{"date":"2024-12-18","price":6950,"type":"52_w_low","symbol":"INKP.JK"},{"date":"2024-12-18","price":6950,"type":"90_d_low","symbol":"INKP.JK"},{"date":"2024-12-18","price":6950,"type":"ytd_low","symbol":"INKP.JK"},{"date":"2024-12-18","price":1565,"type":"90_d_low","symbol":"BIRD.JK"},{"date":"2024-12-18","price":145,"type":"90_d_low","symbol":"ASRI.JK"},{"date":"2024-12-18","price":130,"type":"90_d_high","symbol":"OILS.JK"},{"date":"2024-12-18","price":4410,"type":"90_d_low","symbol":"BBNI.JK"},{"date":"2024-12-18","price":112,"type":"90_d_low","symbol":"WEHA.JK"},{"date":"2024-12-18","price":120,"type":"90_d_low","symbol":"HDFA.JK"},{"date":"2024-12-18","price":590,"type":"90_d_low","symbol":"MTDL.JK"},{"date":"2024-12-18","price":398,"type":"52_w_high","symbol":"HOMI.JK"},{"date":"2024-12-18","price":398,"type":"90_d_high","symbol":"HOMI.JK"},{"date":"2024-12-18","price":398,"type":"ytd_high","symbol":"HOMI.JK"}]
+2024-12-18 03:28:47,499 - INFO: Program started
+2024-12-18 03:31:25,424 - ERROR: $POLU.JK: possibly delisted; no price data found  (1d 1926-01-12 -> 2024-12-18)
+2024-12-18 03:31:26,014 - ERROR: $POLU.JK: possibly delisted; no price data found  (1d 1926-01-12 -> 2024-12-18)
+2024-12-18 03:31:26,439 - ERROR: $POLU.JK: possibly delisted; no price data found  (1d 1926-01-12 -> 2024-12-18)
+2024-12-18 03:31:26,938 - ERROR: Failed to get ticker 'SMMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:26,938 - ERROR: $SMMA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:26,940 - ERROR: Failed to get ticker 'SMMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:26,940 - ERROR: $SMMA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:26,941 - ERROR: Failed to get ticker 'SMMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:26,942 - ERROR: $SMMA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:27,421 - ERROR: Failed to get ticker 'TRST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:27,421 - ERROR: $TRST.JK: possibly delisted; no timezone found
+2024-12-18 03:31:27,423 - ERROR: Failed to get ticker 'TRST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:27,423 - ERROR: $TRST.JK: possibly delisted; no timezone found
+2024-12-18 03:31:27,424 - ERROR: Failed to get ticker 'TRST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:27,425 - ERROR: $TRST.JK: possibly delisted; no timezone found
+2024-12-18 03:31:27,922 - ERROR: Failed to get ticker 'WEGE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:27,923 - ERROR: $WEGE.JK: possibly delisted; no timezone found
+2024-12-18 03:31:27,924 - ERROR: Failed to get ticker 'WEGE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:27,924 - ERROR: $WEGE.JK: possibly delisted; no timezone found
+2024-12-18 03:31:27,926 - ERROR: Failed to get ticker 'WEGE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:27,926 - ERROR: $WEGE.JK: possibly delisted; no timezone found
+2024-12-18 03:31:28,467 - ERROR: Failed to get ticker 'BBNI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:28,467 - ERROR: $BBNI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:28,469 - ERROR: Failed to get ticker 'BBNI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:28,469 - ERROR: $BBNI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:28,470 - ERROR: Failed to get ticker 'BBNI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:28,471 - ERROR: $BBNI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:29,002 - ERROR: Failed to get ticker 'MIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:29,002 - ERROR: $MIDI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:29,004 - ERROR: Failed to get ticker 'MIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:29,004 - ERROR: $MIDI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:29,006 - ERROR: Failed to get ticker 'MIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:29,006 - ERROR: $MIDI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:29,647 - ERROR: Failed to get ticker 'MYRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:29,647 - ERROR: $MYRX.JK: possibly delisted; no timezone found
+2024-12-18 03:31:29,649 - ERROR: Failed to get ticker 'MYRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:29,650 - ERROR: $MYRX.JK: possibly delisted; no timezone found
+2024-12-18 03:31:29,651 - ERROR: Failed to get ticker 'MYRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:29,651 - ERROR: $MYRX.JK: possibly delisted; no timezone found
+2024-12-18 03:31:30,357 - ERROR: Failed to get ticker 'PRDA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:30,358 - ERROR: $PRDA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:30,360 - ERROR: Failed to get ticker 'PRDA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:30,360 - ERROR: $PRDA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:30,361 - ERROR: Failed to get ticker 'PRDA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:30,361 - ERROR: $PRDA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:30,914 - ERROR: Failed to get ticker 'SMSM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:30,914 - ERROR: $SMSM.JK: possibly delisted; no timezone found
+2024-12-18 03:31:30,916 - ERROR: Failed to get ticker 'SMSM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:30,916 - ERROR: $SMSM.JK: possibly delisted; no timezone found
+2024-12-18 03:31:30,917 - ERROR: Failed to get ticker 'SMSM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:30,918 - ERROR: $SMSM.JK: possibly delisted; no timezone found
+2024-12-18 03:31:31,513 - ERROR: Failed to get ticker 'AKSI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:31,514 - ERROR: $AKSI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:31,515 - ERROR: Failed to get ticker 'AKSI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:31,516 - ERROR: $AKSI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:31,517 - ERROR: Failed to get ticker 'AKSI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:31,517 - ERROR: $AKSI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:31,966 - ERROR: Failed to get ticker 'SSIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:31,967 - ERROR: $SSIA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:31,968 - ERROR: Failed to get ticker 'SSIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:31,969 - ERROR: $SSIA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:31,970 - ERROR: Failed to get ticker 'SSIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:31,970 - ERROR: $SSIA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:32,796 - ERROR: Failed to get ticker 'TGRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:32,796 - ERROR: $TGRA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:32,798 - ERROR: Failed to get ticker 'TGRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:32,798 - ERROR: $TGRA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:32,800 - ERROR: Failed to get ticker 'TGRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:32,800 - ERROR: $TGRA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:33,363 - ERROR: Failed to get ticker 'TRUK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:33,364 - ERROR: $TRUK.JK: possibly delisted; no timezone found
+2024-12-18 03:31:33,365 - ERROR: Failed to get ticker 'TRUK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:33,366 - ERROR: $TRUK.JK: possibly delisted; no timezone found
+2024-12-18 03:31:33,367 - ERROR: Failed to get ticker 'TRUK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:33,367 - ERROR: $TRUK.JK: possibly delisted; no timezone found
+2024-12-18 03:31:34,057 - ERROR: Failed to get ticker 'IKAI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:34,058 - ERROR: $IKAI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:34,059 - ERROR: Failed to get ticker 'IKAI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:34,060 - ERROR: $IKAI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:34,061 - ERROR: Failed to get ticker 'IKAI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:34,061 - ERROR: $IKAI.JK: possibly delisted; no timezone found
+2024-12-18 03:31:34,764 - ERROR: Failed to get ticker 'TFCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:34,764 - ERROR: $TFCO.JK: possibly delisted; no timezone found
+2024-12-18 03:31:34,766 - ERROR: Failed to get ticker 'TFCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:34,766 - ERROR: $TFCO.JK: possibly delisted; no timezone found
+2024-12-18 03:31:34,768 - ERROR: Failed to get ticker 'TFCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:34,768 - ERROR: $TFCO.JK: possibly delisted; no timezone found
+2024-12-18 03:31:35,397 - ERROR: Failed to get ticker 'UANG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:35,398 - ERROR: $UANG.JK: possibly delisted; no timezone found
+2024-12-18 03:31:35,400 - ERROR: Failed to get ticker 'UANG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:35,400 - ERROR: $UANG.JK: possibly delisted; no timezone found
+2024-12-18 03:31:35,401 - ERROR: Failed to get ticker 'UANG.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:35,401 - ERROR: $UANG.JK: possibly delisted; no timezone found
+2024-12-18 03:31:36,010 - ERROR: Failed to get ticker 'DMAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:36,010 - ERROR: $DMAS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:36,012 - ERROR: Failed to get ticker 'DMAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:36,012 - ERROR: $DMAS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:36,014 - ERROR: Failed to get ticker 'DMAS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:36,014 - ERROR: $DMAS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:36,676 - ERROR: Failed to get ticker 'LFLO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:36,677 - ERROR: $LFLO.JK: possibly delisted; no timezone found
+2024-12-18 03:31:36,678 - ERROR: Failed to get ticker 'LFLO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:36,679 - ERROR: $LFLO.JK: possibly delisted; no timezone found
+2024-12-18 03:31:36,680 - ERROR: Failed to get ticker 'LFLO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:36,680 - ERROR: $LFLO.JK: possibly delisted; no timezone found
+2024-12-18 03:31:37,449 - ERROR: Failed to get ticker 'RALS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:37,450 - ERROR: $RALS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:37,451 - ERROR: Failed to get ticker 'RALS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:37,452 - ERROR: $RALS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:37,453 - ERROR: Failed to get ticker 'RALS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:37,453 - ERROR: $RALS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:38,023 - ERROR: Failed to get ticker 'WOOD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:38,023 - ERROR: $WOOD.JK: possibly delisted; no timezone found
+2024-12-18 03:31:38,024 - ERROR: Failed to get ticker 'WOOD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:38,025 - ERROR: $WOOD.JK: possibly delisted; no timezone found
+2024-12-18 03:31:38,026 - ERROR: Failed to get ticker 'WOOD.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:38,026 - ERROR: $WOOD.JK: possibly delisted; no timezone found
+2024-12-18 03:31:38,521 - ERROR: Failed to get ticker 'URBN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:38,521 - ERROR: $URBN.JK: possibly delisted; no timezone found
+2024-12-18 03:31:38,523 - ERROR: Failed to get ticker 'URBN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:38,523 - ERROR: $URBN.JK: possibly delisted; no timezone found
+2024-12-18 03:31:38,524 - ERROR: Failed to get ticker 'URBN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:38,525 - ERROR: $URBN.JK: possibly delisted; no timezone found
+2024-12-18 03:31:39,202 - ERROR: Failed to get ticker 'VAST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:39,202 - ERROR: $VAST.JK: possibly delisted; no timezone found
+2024-12-18 03:31:39,204 - ERROR: Failed to get ticker 'VAST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:39,204 - ERROR: $VAST.JK: possibly delisted; no timezone found
+2024-12-18 03:31:39,206 - ERROR: Failed to get ticker 'VAST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:39,206 - ERROR: $VAST.JK: possibly delisted; no timezone found
+2024-12-18 03:31:39,902 - ERROR: Failed to get ticker 'VOKS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:39,902 - ERROR: $VOKS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:39,904 - ERROR: Failed to get ticker 'VOKS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:39,904 - ERROR: $VOKS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:39,905 - ERROR: Failed to get ticker 'VOKS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:39,906 - ERROR: $VOKS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:40,404 - ERROR: Failed to get ticker 'VRNA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:40,404 - ERROR: $VRNA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:40,406 - ERROR: Failed to get ticker 'VRNA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:40,406 - ERROR: $VRNA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:40,407 - ERROR: Failed to get ticker 'VRNA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:40,408 - ERROR: $VRNA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:40,929 - ERROR: Failed to get ticker 'IKPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:40,930 - ERROR: $IKPM.JK: possibly delisted; no timezone found
+2024-12-18 03:31:40,931 - ERROR: Failed to get ticker 'IKPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:40,932 - ERROR: $IKPM.JK: possibly delisted; no timezone found
+2024-12-18 03:31:40,933 - ERROR: Failed to get ticker 'IKPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:40,933 - ERROR: $IKPM.JK: possibly delisted; no timezone found
+2024-12-18 03:31:41,586 - ERROR: Failed to get ticker 'WEHA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:41,587 - ERROR: $WEHA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:41,588 - ERROR: Failed to get ticker 'WEHA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:41,588 - ERROR: $WEHA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:41,590 - ERROR: Failed to get ticker 'WEHA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:41,590 - ERROR: $WEHA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:42,091 - ERROR: Failed to get ticker 'DNET.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:42,092 - ERROR: $DNET.JK: possibly delisted; no timezone found
+2024-12-18 03:31:42,093 - ERROR: Failed to get ticker 'DNET.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:42,094 - ERROR: $DNET.JK: possibly delisted; no timezone found
+2024-12-18 03:31:42,095 - ERROR: Failed to get ticker 'DNET.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:42,095 - ERROR: $DNET.JK: possibly delisted; no timezone found
+2024-12-18 03:31:42,635 - ERROR: Failed to get ticker 'WGSH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:42,636 - ERROR: $WGSH.JK: possibly delisted; no timezone found
+2024-12-18 03:31:42,637 - ERROR: Failed to get ticker 'WGSH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:42,638 - ERROR: $WGSH.JK: possibly delisted; no timezone found
+2024-12-18 03:31:42,639 - ERROR: Failed to get ticker 'WGSH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:42,639 - ERROR: $WGSH.JK: possibly delisted; no timezone found
+2024-12-18 03:31:43,307 - ERROR: Failed to get ticker 'WIIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:43,307 - ERROR: $WIIM.JK: possibly delisted; no timezone found
+2024-12-18 03:31:43,309 - ERROR: Failed to get ticker 'WIIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:43,309 - ERROR: $WIIM.JK: possibly delisted; no timezone found
+2024-12-18 03:31:43,310 - ERROR: Failed to get ticker 'WIIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:43,311 - ERROR: $WIIM.JK: possibly delisted; no timezone found
+2024-12-18 03:31:43,908 - ERROR: Failed to get ticker 'YELO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:43,908 - ERROR: $YELO.JK: possibly delisted; no timezone found
+2024-12-18 03:31:43,910 - ERROR: Failed to get ticker 'YELO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:43,910 - ERROR: $YELO.JK: possibly delisted; no timezone found
+2024-12-18 03:31:43,911 - ERROR: Failed to get ticker 'YELO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:43,912 - ERROR: $YELO.JK: possibly delisted; no timezone found
+2024-12-18 03:31:44,398 - ERROR: Failed to get ticker 'ECII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:44,398 - ERROR: $ECII.JK: possibly delisted; no timezone found
+2024-12-18 03:31:44,400 - ERROR: Failed to get ticker 'ECII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:44,400 - ERROR: $ECII.JK: possibly delisted; no timezone found
+2024-12-18 03:31:44,401 - ERROR: Failed to get ticker 'ECII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:44,401 - ERROR: $ECII.JK: possibly delisted; no timezone found
+2024-12-18 03:31:44,935 - ERROR: Failed to get ticker 'WSBP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:44,935 - ERROR: $WSBP.JK: possibly delisted; no timezone found
+2024-12-18 03:31:44,937 - ERROR: Failed to get ticker 'WSBP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:44,937 - ERROR: $WSBP.JK: possibly delisted; no timezone found
+2024-12-18 03:31:44,939 - ERROR: Failed to get ticker 'WSBP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:44,939 - ERROR: $WSBP.JK: possibly delisted; no timezone found
+2024-12-18 03:31:45,492 - ERROR: Failed to get ticker 'WSKT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:45,493 - ERROR: $WSKT.JK: possibly delisted; no timezone found
+2024-12-18 03:31:45,494 - ERROR: Failed to get ticker 'WSKT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:45,495 - ERROR: $WSKT.JK: possibly delisted; no timezone found
+2024-12-18 03:31:45,496 - ERROR: Failed to get ticker 'WSKT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:45,496 - ERROR: $WSKT.JK: possibly delisted; no timezone found
+2024-12-18 03:31:46,101 - ERROR: Failed to get ticker 'IPCC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:46,101 - ERROR: $IPCC.JK: possibly delisted; no timezone found
+2024-12-18 03:31:46,103 - ERROR: Failed to get ticker 'IPCC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:46,103 - ERROR: $IPCC.JK: possibly delisted; no timezone found
+2024-12-18 03:31:46,105 - ERROR: Failed to get ticker 'IPCC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:46,105 - ERROR: $IPCC.JK: possibly delisted; no timezone found
+2024-12-18 03:31:46,669 - ERROR: Failed to get ticker 'ZONE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:46,669 - ERROR: $ZONE.JK: possibly delisted; no timezone found
+2024-12-18 03:31:46,671 - ERROR: Failed to get ticker 'ZONE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:46,671 - ERROR: $ZONE.JK: possibly delisted; no timezone found
+2024-12-18 03:31:46,673 - ERROR: Failed to get ticker 'ZONE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:46,673 - ERROR: $ZONE.JK: possibly delisted; no timezone found
+2024-12-18 03:31:56,688 - ERROR: Failed to get ticker 'MBSS.JK' reason: HTTPSConnectionPool(host='query2.finance.yahoo.com', port=443): Read timed out. (read timeout=10)
+2024-12-18 03:31:56,688 - ERROR: $MBSS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:57,291 - ERROR: Failed to get ticker 'MBSS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:57,291 - ERROR: $MBSS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:57,293 - ERROR: Failed to get ticker 'MBSS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:57,293 - ERROR: $MBSS.JK: possibly delisted; no timezone found
+2024-12-18 03:31:57,890 - ERROR: Failed to get ticker 'GEMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:57,891 - ERROR: $GEMA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:57,892 - ERROR: Failed to get ticker 'GEMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:57,893 - ERROR: $GEMA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:57,894 - ERROR: Failed to get ticker 'GEMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:57,894 - ERROR: $GEMA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:58,383 - ERROR: Failed to get ticker 'HDFA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:58,383 - ERROR: $HDFA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:58,385 - ERROR: Failed to get ticker 'HDFA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:58,385 - ERROR: $HDFA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:58,386 - ERROR: Failed to get ticker 'HDFA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:58,387 - ERROR: $HDFA.JK: possibly delisted; no timezone found
+2024-12-18 03:31:58,886 - ERROR: Failed to get ticker 'MLPL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:58,886 - ERROR: $MLPL.JK: possibly delisted; no timezone found
+2024-12-18 03:31:58,888 - ERROR: Failed to get ticker 'MLPL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:58,888 - ERROR: $MLPL.JK: possibly delisted; no timezone found
+2024-12-18 03:31:58,890 - ERROR: Failed to get ticker 'MLPL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:58,890 - ERROR: $MLPL.JK: possibly delisted; no timezone found
+2024-12-18 03:31:59,597 - ERROR: Failed to get ticker 'INPC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:59,597 - ERROR: $INPC.JK: possibly delisted; no timezone found
+2024-12-18 03:31:59,599 - ERROR: Failed to get ticker 'INPC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:59,599 - ERROR: $INPC.JK: possibly delisted; no timezone found
+2024-12-18 03:31:59,601 - ERROR: Failed to get ticker 'INPC.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:31:59,601 - ERROR: $INPC.JK: possibly delisted; no timezone found
+2024-12-18 03:32:00,175 - ERROR: Failed to get ticker 'KEEN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:00,175 - ERROR: $KEEN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:00,177 - ERROR: Failed to get ticker 'KEEN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:00,177 - ERROR: $KEEN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:00,179 - ERROR: Failed to get ticker 'KEEN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:00,179 - ERROR: $KEEN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:00,649 - ERROR: Failed to get ticker 'MPOW.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:00,649 - ERROR: $MPOW.JK: possibly delisted; no timezone found
+2024-12-18 03:32:00,651 - ERROR: Failed to get ticker 'MPOW.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:00,651 - ERROR: $MPOW.JK: possibly delisted; no timezone found
+2024-12-18 03:32:00,653 - ERROR: Failed to get ticker 'MPOW.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:00,653 - ERROR: $MPOW.JK: possibly delisted; no timezone found
+2024-12-18 03:32:01,291 - ERROR: Failed to get ticker 'MTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:01,292 - ERROR: $MTPS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:01,294 - ERROR: Failed to get ticker 'MTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:01,294 - ERROR: $MTPS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:01,295 - ERROR: Failed to get ticker 'MTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:01,295 - ERROR: $MTPS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:01,973 - ERROR: Failed to get ticker 'INDO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:01,973 - ERROR: $INDO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:01,975 - ERROR: Failed to get ticker 'INDO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:01,975 - ERROR: $INDO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:01,976 - ERROR: Failed to get ticker 'INDO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:01,977 - ERROR: $INDO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:02,563 - ERROR: Failed to get ticker 'JRPT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:02,563 - ERROR: $JRPT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:02,565 - ERROR: Failed to get ticker 'JRPT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:02,565 - ERROR: $JRPT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:02,567 - ERROR: Failed to get ticker 'JRPT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:02,567 - ERROR: $JRPT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:03,196 - ERROR: Failed to get ticker 'MIKA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:03,197 - ERROR: $MIKA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:03,199 - ERROR: Failed to get ticker 'MIKA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:03,199 - ERROR: $MIKA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:03,200 - ERROR: Failed to get ticker 'MIKA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:03,200 - ERROR: $MIKA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:03,682 - ERROR: Failed to get ticker 'MLPT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:03,683 - ERROR: $MLPT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:03,684 - ERROR: Failed to get ticker 'MLPT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:03,685 - ERROR: $MLPT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:03,686 - ERROR: Failed to get ticker 'MLPT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:03,686 - ERROR: $MLPT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:04,195 - ERROR: Failed to get ticker 'MNCN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:04,195 - ERROR: $MNCN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:04,197 - ERROR: Failed to get ticker 'MNCN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:04,197 - ERROR: $MNCN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:04,199 - ERROR: Failed to get ticker 'MNCN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:04,199 - ERROR: $MNCN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:04,729 - ERROR: Failed to get ticker 'SUPR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:04,729 - ERROR: $SUPR.JK: possibly delisted; no timezone found
+2024-12-18 03:32:04,731 - ERROR: Failed to get ticker 'SUPR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:04,731 - ERROR: $SUPR.JK: possibly delisted; no timezone found
+2024-12-18 03:32:04,733 - ERROR: Failed to get ticker 'SUPR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:04,733 - ERROR: $SUPR.JK: possibly delisted; no timezone found
+2024-12-18 03:32:05,337 - ERROR: Failed to get ticker 'SURE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:05,338 - ERROR: $SURE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:05,339 - ERROR: Failed to get ticker 'SURE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:05,340 - ERROR: $SURE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:05,341 - ERROR: Failed to get ticker 'SURE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:05,341 - ERROR: $SURE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:06,016 - ERROR: Failed to get ticker 'BFIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:06,017 - ERROR: $BFIN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:06,018 - ERROR: Failed to get ticker 'BFIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:06,019 - ERROR: $BFIN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:06,020 - ERROR: Failed to get ticker 'BFIN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:06,020 - ERROR: $BFIN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:06,570 - ERROR: Failed to get ticker 'BNII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:06,571 - ERROR: $BNII.JK: possibly delisted; no timezone found
+2024-12-18 03:32:06,573 - ERROR: Failed to get ticker 'BNII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:06,573 - ERROR: $BNII.JK: possibly delisted; no timezone found
+2024-12-18 03:32:06,574 - ERROR: Failed to get ticker 'BNII.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:06,575 - ERROR: $BNII.JK: possibly delisted; no timezone found
+2024-12-18 03:32:07,039 - ERROR: Failed to get ticker 'DEWA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:07,039 - ERROR: $DEWA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:07,040 - ERROR: Failed to get ticker 'DEWA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:07,041 - ERROR: $DEWA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:07,042 - ERROR: Failed to get ticker 'DEWA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:07,042 - ERROR: $DEWA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:07,598 - ERROR: Failed to get ticker 'DKFT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:07,598 - ERROR: $DKFT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:07,600 - ERROR: Failed to get ticker 'DKFT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:07,600 - ERROR: $DKFT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:07,602 - ERROR: Failed to get ticker 'DKFT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:07,602 - ERROR: $DKFT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:08,150 - ERROR: Failed to get ticker 'DPUM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:08,150 - ERROR: $DPUM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:08,152 - ERROR: Failed to get ticker 'DPUM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:08,152 - ERROR: $DPUM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:08,154 - ERROR: Failed to get ticker 'DPUM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:08,155 - ERROR: $DPUM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:08,742 - ERROR: Failed to get ticker 'IBST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:08,742 - ERROR: $IBST.JK: possibly delisted; no timezone found
+2024-12-18 03:32:08,744 - ERROR: Failed to get ticker 'IBST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:08,744 - ERROR: $IBST.JK: possibly delisted; no timezone found
+2024-12-18 03:32:08,745 - ERROR: Failed to get ticker 'IBST.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:08,746 - ERROR: $IBST.JK: possibly delisted; no timezone found
+2024-12-18 03:32:09,274 - ERROR: Failed to get ticker 'KINO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:09,274 - ERROR: $KINO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:09,276 - ERROR: Failed to get ticker 'KINO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:09,276 - ERROR: $KINO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:09,278 - ERROR: Failed to get ticker 'KINO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:09,278 - ERROR: $KINO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:09,958 - ERROR: Failed to get ticker 'ELTY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:09,958 - ERROR: $ELTY.JK: possibly delisted; no timezone found
+2024-12-18 03:32:09,960 - ERROR: Failed to get ticker 'ELTY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:09,960 - ERROR: $ELTY.JK: possibly delisted; no timezone found
+2024-12-18 03:32:09,961 - ERROR: Failed to get ticker 'ELTY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:09,961 - ERROR: $ELTY.JK: possibly delisted; no timezone found
+2024-12-18 03:32:10,906 - ERROR: Failed to get ticker 'INCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:10,906 - ERROR: $INCO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:10,908 - ERROR: Failed to get ticker 'INCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:10,908 - ERROR: $INCO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:10,910 - ERROR: Failed to get ticker 'INCO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:10,910 - ERROR: $INCO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:11,404 - ERROR: Failed to get ticker 'SRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:11,405 - ERROR: $SRIL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:11,406 - ERROR: Failed to get ticker 'SRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:11,407 - ERROR: $SRIL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:11,408 - ERROR: Failed to get ticker 'SRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:11,408 - ERROR: $SRIL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:12,626 - ERROR: Failed to get ticker 'GIAA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:12,626 - ERROR: $GIAA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:12,628 - ERROR: Failed to get ticker 'GIAA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:12,628 - ERROR: $GIAA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:12,630 - ERROR: Failed to get ticker 'GIAA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:12,630 - ERROR: $GIAA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:13,342 - ERROR: Failed to get ticker 'GJTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:13,343 - ERROR: $GJTL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:13,344 - ERROR: Failed to get ticker 'GJTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:13,345 - ERROR: $GJTL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:13,346 - ERROR: Failed to get ticker 'GJTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:13,346 - ERROR: $GJTL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:13,938 - ERROR: Failed to get ticker 'HDTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:13,938 - ERROR: $HDTX.JK: possibly delisted; no timezone found
+2024-12-18 03:32:13,940 - ERROR: Failed to get ticker 'HDTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:13,940 - ERROR: $HDTX.JK: possibly delisted; no timezone found
+2024-12-18 03:32:13,942 - ERROR: Failed to get ticker 'HDTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:13,942 - ERROR: $HDTX.JK: possibly delisted; no timezone found
+2024-12-18 03:32:14,466 - ERROR: Failed to get ticker 'ITMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:14,467 - ERROR: $ITMA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:14,468 - ERROR: Failed to get ticker 'ITMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:14,469 - ERROR: $ITMA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:14,470 - ERROR: Failed to get ticker 'ITMA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:14,470 - ERROR: $ITMA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:15,087 - ERROR: Failed to get ticker 'JPFA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:15,087 - ERROR: $JPFA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:15,089 - ERROR: Failed to get ticker 'JPFA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:15,089 - ERROR: $JPFA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:15,090 - ERROR: Failed to get ticker 'JPFA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:15,091 - ERROR: $JPFA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:15,772 - ERROR: Failed to get ticker 'KARW.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:15,773 - ERROR: $KARW.JK: possibly delisted; no timezone found
+2024-12-18 03:32:15,774 - ERROR: Failed to get ticker 'KARW.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:15,775 - ERROR: $KARW.JK: possibly delisted; no timezone found
+2024-12-18 03:32:15,776 - ERROR: Failed to get ticker 'KARW.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:15,776 - ERROR: $KARW.JK: possibly delisted; no timezone found
+2024-12-18 03:32:16,429 - ERROR: Failed to get ticker 'KBLI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:16,429 - ERROR: $KBLI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:16,431 - ERROR: Failed to get ticker 'KBLI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:16,431 - ERROR: $KBLI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:16,433 - ERROR: Failed to get ticker 'KBLI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:16,433 - ERROR: $KBLI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:17,124 - ERROR: Failed to get ticker 'KLBF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:17,125 - ERROR: $KLBF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:17,126 - ERROR: Failed to get ticker 'KLBF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:17,127 - ERROR: $KLBF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:17,128 - ERROR: Failed to get ticker 'KLBF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:17,128 - ERROR: $KLBF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:17,752 - ERROR: Failed to get ticker 'MTDL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:17,752 - ERROR: $MTDL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:17,754 - ERROR: Failed to get ticker 'MTDL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:17,754 - ERROR: $MTDL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:17,755 - ERROR: Failed to get ticker 'MTDL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:17,756 - ERROR: $MTDL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:18,402 - ERROR: Failed to get ticker 'MYTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:18,402 - ERROR: $MYTX.JK: possibly delisted; no timezone found
+2024-12-18 03:32:18,404 - ERROR: Failed to get ticker 'MYTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:18,404 - ERROR: $MYTX.JK: possibly delisted; no timezone found
+2024-12-18 03:32:18,405 - ERROR: Failed to get ticker 'MYTX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:18,406 - ERROR: $MYTX.JK: possibly delisted; no timezone found
+2024-12-18 03:32:18,933 - ERROR: Failed to get ticker 'PANS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:18,934 - ERROR: $PANS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:18,936 - ERROR: Failed to get ticker 'PANS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:18,936 - ERROR: $PANS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:18,937 - ERROR: Failed to get ticker 'PANS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:18,937 - ERROR: $PANS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:19,527 - ERROR: Failed to get ticker 'PBRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:19,527 - ERROR: $PBRX.JK: possibly delisted; no timezone found
+2024-12-18 03:32:19,529 - ERROR: Failed to get ticker 'PBRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:19,529 - ERROR: $PBRX.JK: possibly delisted; no timezone found
+2024-12-18 03:32:19,530 - ERROR: Failed to get ticker 'PBRX.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:19,531 - ERROR: $PBRX.JK: possibly delisted; no timezone found
+2024-12-18 03:32:20,085 - ERROR: Failed to get ticker 'SAFE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:20,086 - ERROR: $SAFE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:20,088 - ERROR: Failed to get ticker 'SAFE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:20,088 - ERROR: $SAFE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:20,089 - ERROR: Failed to get ticker 'SAFE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:20,090 - ERROR: $SAFE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:20,764 - ERROR: Failed to get ticker 'UCID.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:20,764 - ERROR: $UCID.JK: possibly delisted; no timezone found
+2024-12-18 03:32:20,766 - ERROR: Failed to get ticker 'UCID.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:20,767 - ERROR: $UCID.JK: possibly delisted; no timezone found
+2024-12-18 03:32:20,768 - ERROR: Failed to get ticker 'UCID.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:20,768 - ERROR: $UCID.JK: possibly delisted; no timezone found
+2024-12-18 03:32:21,318 - ERROR: Failed to get ticker 'UNSP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:21,319 - ERROR: $UNSP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:21,320 - ERROR: Failed to get ticker 'UNSP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:21,320 - ERROR: $UNSP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:21,322 - ERROR: Failed to get ticker 'UNSP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:21,322 - ERROR: $UNSP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:21,896 - ERROR: Failed to get ticker 'EPMT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:21,897 - ERROR: $EPMT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:21,898 - ERROR: Failed to get ticker 'EPMT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:21,899 - ERROR: $EPMT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:21,900 - ERROR: Failed to get ticker 'EPMT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:21,900 - ERROR: $EPMT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:22,512 - ERROR: Failed to get ticker 'ALMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:22,512 - ERROR: $ALMI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:22,514 - ERROR: Failed to get ticker 'ALMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:22,515 - ERROR: $ALMI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:22,516 - ERROR: Failed to get ticker 'ALMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:22,516 - ERROR: $ALMI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:23,016 - ERROR: Failed to get ticker 'ANTM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:23,017 - ERROR: $ANTM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:23,018 - ERROR: Failed to get ticker 'ANTM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:23,019 - ERROR: $ANTM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:23,020 - ERROR: Failed to get ticker 'ANTM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:23,020 - ERROR: $ANTM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:23,528 - ERROR: Failed to get ticker 'BRAM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:23,528 - ERROR: $BRAM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:23,530 - ERROR: Failed to get ticker 'BRAM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:23,530 - ERROR: $BRAM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:23,532 - ERROR: Failed to get ticker 'BRAM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:23,532 - ERROR: $BRAM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:24,160 - ERROR: Failed to get ticker 'BTEK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:24,160 - ERROR: $BTEK.JK: possibly delisted; no timezone found
+2024-12-18 03:32:24,162 - ERROR: Failed to get ticker 'BTEK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:24,162 - ERROR: $BTEK.JK: possibly delisted; no timezone found
+2024-12-18 03:32:24,164 - ERROR: Failed to get ticker 'BTEK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:24,164 - ERROR: $BTEK.JK: possibly delisted; no timezone found
+2024-12-18 03:32:24,942 - ERROR: Failed to get ticker 'TKIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:24,942 - ERROR: $TKIM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:24,944 - ERROR: Failed to get ticker 'TKIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:24,944 - ERROR: $TKIM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:24,946 - ERROR: Failed to get ticker 'TKIM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:24,946 - ERROR: $TKIM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:25,622 - ERROR: Failed to get ticker 'RSCH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:25,623 - ERROR: $RSCH.JK: possibly delisted; no timezone found
+2024-12-18 03:32:25,624 - ERROR: Failed to get ticker 'RSCH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:25,625 - ERROR: $RSCH.JK: possibly delisted; no timezone found
+2024-12-18 03:32:25,626 - ERROR: Failed to get ticker 'RSCH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:25,626 - ERROR: $RSCH.JK: possibly delisted; no timezone found
+2024-12-18 03:32:26,178 - ERROR: Failed to get ticker 'TELE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:26,179 - ERROR: $TELE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:26,180 - ERROR: Failed to get ticker 'TELE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:26,180 - ERROR: $TELE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:26,182 - ERROR: Failed to get ticker 'TELE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:26,182 - ERROR: $TELE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:26,810 - ERROR: Failed to get ticker 'INDF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:26,810 - ERROR: $INDF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:26,812 - ERROR: Failed to get ticker 'INDF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:26,812 - ERROR: $INDF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:26,813 - ERROR: Failed to get ticker 'INDF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:26,814 - ERROR: $INDF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:27,375 - ERROR: Failed to get ticker 'HOMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:27,375 - ERROR: $HOMI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:27,377 - ERROR: Failed to get ticker 'HOMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:27,377 - ERROR: $HOMI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:27,379 - ERROR: Failed to get ticker 'HOMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:27,379 - ERROR: $HOMI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:27,935 - ERROR: Failed to get ticker 'EXCL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:27,936 - ERROR: $EXCL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:27,937 - ERROR: Failed to get ticker 'EXCL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:27,937 - ERROR: $EXCL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:27,939 - ERROR: Failed to get ticker 'EXCL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:27,939 - ERROR: $EXCL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:28,518 - ERROR: Failed to get ticker 'HOTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:28,518 - ERROR: $HOTL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:28,519 - ERROR: Failed to get ticker 'HOTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:28,520 - ERROR: $HOTL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:28,521 - ERROR: Failed to get ticker 'HOTL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:28,521 - ERROR: $HOTL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:29,131 - ERROR: Failed to get ticker 'HAJJ.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:29,132 - ERROR: $HAJJ.JK: possibly delisted; no timezone found
+2024-12-18 03:32:29,133 - ERROR: Failed to get ticker 'HAJJ.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:29,134 - ERROR: $HAJJ.JK: possibly delisted; no timezone found
+2024-12-18 03:32:29,135 - ERROR: Failed to get ticker 'HAJJ.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:29,135 - ERROR: $HAJJ.JK: possibly delisted; no timezone found
+2024-12-18 03:32:29,707 - ERROR: Failed to get ticker 'KING.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:29,707 - ERROR: $KING.JK: possibly delisted; no timezone found
+2024-12-18 03:32:29,708 - ERROR: Failed to get ticker 'KING.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:29,709 - ERROR: $KING.JK: possibly delisted; no timezone found
+2024-12-18 03:32:29,710 - ERROR: Failed to get ticker 'KING.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:29,710 - ERROR: $KING.JK: possibly delisted; no timezone found
+2024-12-18 03:32:30,226 - ERROR: Failed to get ticker 'MUTU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:30,227 - ERROR: $MUTU.JK: possibly delisted; no timezone found
+2024-12-18 03:32:30,228 - ERROR: Failed to get ticker 'MUTU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:30,228 - ERROR: $MUTU.JK: possibly delisted; no timezone found
+2024-12-18 03:32:30,230 - ERROR: Failed to get ticker 'MUTU.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:30,230 - ERROR: $MUTU.JK: possibly delisted; no timezone found
+2024-12-18 03:32:30,782 - ERROR: Failed to get ticker 'ISAP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:30,783 - ERROR: $ISAP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:30,784 - ERROR: Failed to get ticker 'ISAP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:30,785 - ERROR: $ISAP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:30,786 - ERROR: Failed to get ticker 'ISAP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:30,786 - ERROR: $ISAP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:31,315 - ERROR: Failed to get ticker 'GRPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:31,316 - ERROR: $GRPM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:31,318 - ERROR: Failed to get ticker 'GRPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:31,318 - ERROR: $GRPM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:31,319 - ERROR: Failed to get ticker 'GRPM.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:31,320 - ERROR: $GRPM.JK: possibly delisted; no timezone found
+2024-12-18 03:32:31,934 - ERROR: Failed to get ticker 'PPRI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:31,934 - ERROR: $PPRI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:31,936 - ERROR: Failed to get ticker 'PPRI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:31,936 - ERROR: $PPRI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:31,938 - ERROR: Failed to get ticker 'PPRI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:31,938 - ERROR: $PPRI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:32,500 - ERROR: Failed to get ticker 'HUMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:32,500 - ERROR: $HUMI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:32,502 - ERROR: Failed to get ticker 'HUMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:32,502 - ERROR: $HUMI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:32,503 - ERROR: Failed to get ticker 'HUMI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:32,504 - ERROR: $HUMI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:33,025 - ERROR: Failed to get ticker 'ARMY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:33,025 - ERROR: $ARMY.JK: possibly delisted; no timezone found
+2024-12-18 03:32:33,027 - ERROR: Failed to get ticker 'ARMY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:33,027 - ERROR: $ARMY.JK: possibly delisted; no timezone found
+2024-12-18 03:32:33,029 - ERROR: Failed to get ticker 'ARMY.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:33,029 - ERROR: $ARMY.JK: possibly delisted; no timezone found
+2024-12-18 03:32:33,605 - ERROR: Failed to get ticker 'RELF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:33,606 - ERROR: $RELF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:33,608 - ERROR: Failed to get ticker 'RELF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:33,608 - ERROR: $RELF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:33,609 - ERROR: Failed to get ticker 'RELF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:33,609 - ERROR: $RELF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:34,269 - ERROR: Failed to get ticker 'MAXI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:34,269 - ERROR: $MAXI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:34,271 - ERROR: Failed to get ticker 'MAXI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:34,271 - ERROR: $MAXI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:34,272 - ERROR: Failed to get ticker 'MAXI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:34,273 - ERROR: $MAXI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:34,803 - ERROR: Failed to get ticker 'MENN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:34,803 - ERROR: $MENN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:34,805 - ERROR: Failed to get ticker 'MENN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:34,805 - ERROR: $MENN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:34,806 - ERROR: Failed to get ticker 'MENN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:34,807 - ERROR: $MENN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:35,447 - ERROR: Failed to get ticker 'DOOH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:35,447 - ERROR: $DOOH.JK: possibly delisted; no timezone found
+2024-12-18 03:32:35,449 - ERROR: Failed to get ticker 'DOOH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:35,449 - ERROR: $DOOH.JK: possibly delisted; no timezone found
+2024-12-18 03:32:35,451 - ERROR: Failed to get ticker 'DOOH.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:35,451 - ERROR: $DOOH.JK: possibly delisted; no timezone found
+2024-12-18 03:32:35,949 - ERROR: Failed to get ticker 'NPGF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:35,949 - ERROR: $NPGF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:35,951 - ERROR: Failed to get ticker 'NPGF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:35,951 - ERROR: $NPGF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:35,953 - ERROR: Failed to get ticker 'NPGF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:35,953 - ERROR: $NPGF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:36,489 - ERROR: Failed to get ticker 'TAYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:36,489 - ERROR: $TAYS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:36,491 - ERROR: Failed to get ticker 'TAYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:36,491 - ERROR: $TAYS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:36,492 - ERROR: Failed to get ticker 'TAYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:36,493 - ERROR: $TAYS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:37,003 - ERROR: Failed to get ticker 'AMMS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:37,003 - ERROR: $AMMS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:37,005 - ERROR: Failed to get ticker 'AMMS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:37,005 - ERROR: $AMMS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:37,007 - ERROR: Failed to get ticker 'AMMS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:37,007 - ERROR: $AMMS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:37,791 - ERROR: Failed to get ticker 'LCGP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:37,792 - ERROR: $LCGP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:37,793 - ERROR: Failed to get ticker 'LCGP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:37,793 - ERROR: $LCGP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:37,795 - ERROR: Failed to get ticker 'LCGP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:37,795 - ERROR: $LCGP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:38,346 - ERROR: Failed to get ticker 'IOTF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:38,347 - ERROR: $IOTF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:38,348 - ERROR: Failed to get ticker 'IOTF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:38,349 - ERROR: $IOTF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:38,350 - ERROR: Failed to get ticker 'IOTF.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:38,350 - ERROR: $IOTF.JK: possibly delisted; no timezone found
+2024-12-18 03:32:38,893 - ERROR: Failed to get ticker 'PMMP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:38,893 - ERROR: $PMMP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:38,895 - ERROR: Failed to get ticker 'PMMP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:38,895 - ERROR: $PMMP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:38,897 - ERROR: Failed to get ticker 'PMMP.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:38,897 - ERROR: $PMMP.JK: possibly delisted; no timezone found
+2024-12-18 03:32:39,346 - ERROR: Failed to get ticker 'LABA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:39,346 - ERROR: $LABA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:39,348 - ERROR: Failed to get ticker 'LABA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:39,348 - ERROR: $LABA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:39,350 - ERROR: Failed to get ticker 'LABA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:39,350 - ERROR: $LABA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:39,966 - ERROR: Failed to get ticker 'TRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:39,966 - ERROR: $TRIL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:39,968 - ERROR: Failed to get ticker 'TRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:39,968 - ERROR: $TRIL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:39,969 - ERROR: Failed to get ticker 'TRIL.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:39,970 - ERROR: $TRIL.JK: possibly delisted; no timezone found
+2024-12-18 03:32:49,985 - ERROR: Failed to get ticker 'BESS.JK' reason: HTTPSConnectionPool(host='query2.finance.yahoo.com', port=443): Read timed out. (read timeout=10)
+2024-12-18 03:32:49,985 - ERROR: $BESS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:50,543 - ERROR: Failed to get ticker 'BESS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:50,544 - ERROR: $BESS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:50,545 - ERROR: Failed to get ticker 'BESS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:50,545 - ERROR: $BESS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:51,313 - ERROR: Failed to get ticker 'GTRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:51,314 - ERROR: $GTRA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:51,315 - ERROR: Failed to get ticker 'GTRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:51,316 - ERROR: $GTRA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:51,317 - ERROR: Failed to get ticker 'GTRA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:51,317 - ERROR: $GTRA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:52,026 - ERROR: Failed to get ticker 'TOYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:52,027 - ERROR: $TOYS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:52,028 - ERROR: Failed to get ticker 'TOYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:52,028 - ERROR: $TOYS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:52,030 - ERROR: Failed to get ticker 'TOYS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:52,030 - ERROR: $TOYS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:52,735 - ERROR: Failed to get ticker 'ELIT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:52,735 - ERROR: $ELIT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:52,737 - ERROR: Failed to get ticker 'ELIT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:52,737 - ERROR: $ELIT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:52,738 - ERROR: Failed to get ticker 'ELIT.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:52,739 - ERROR: $ELIT.JK: possibly delisted; no timezone found
+2024-12-18 03:32:53,270 - ERROR: Failed to get ticker 'CRSN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:53,271 - ERROR: $CRSN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:53,273 - ERROR: Failed to get ticker 'CRSN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:53,273 - ERROR: $CRSN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:53,274 - ERROR: Failed to get ticker 'CRSN.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:53,274 - ERROR: $CRSN.JK: possibly delisted; no timezone found
+2024-12-18 03:32:53,756 - ERROR: Failed to get ticker 'AEGS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:53,756 - ERROR: $AEGS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:53,758 - ERROR: Failed to get ticker 'AEGS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:53,758 - ERROR: $AEGS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:53,760 - ERROR: Failed to get ticker 'AEGS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:53,760 - ERROR: $AEGS.JK: possibly delisted; no timezone found
+2024-12-18 03:32:54,424 - ERROR: Failed to get ticker 'SICO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:54,424 - ERROR: $SICO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:54,426 - ERROR: Failed to get ticker 'SICO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:54,426 - ERROR: $SICO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:54,428 - ERROR: Failed to get ticker 'SICO.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:54,428 - ERROR: $SICO.JK: possibly delisted; no timezone found
+2024-12-18 03:32:54,974 - ERROR: Failed to get ticker 'FOLK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:54,975 - ERROR: $FOLK.JK: possibly delisted; no timezone found
+2024-12-18 03:32:54,976 - ERROR: Failed to get ticker 'FOLK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:54,977 - ERROR: $FOLK.JK: possibly delisted; no timezone found
+2024-12-18 03:32:54,978 - ERROR: Failed to get ticker 'FOLK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:54,978 - ERROR: $FOLK.JK: possibly delisted; no timezone found
+2024-12-18 03:32:55,599 - ERROR: Failed to get ticker 'WINR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:55,599 - ERROR: $WINR.JK: possibly delisted; no timezone found
+2024-12-18 03:32:55,601 - ERROR: Failed to get ticker 'WINR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:55,601 - ERROR: $WINR.JK: possibly delisted; no timezone found
+2024-12-18 03:32:55,602 - ERROR: Failed to get ticker 'WINR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:55,603 - ERROR: $WINR.JK: possibly delisted; no timezone found
+2024-12-18 03:32:56,168 - ERROR: Failed to get ticker 'GRIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:56,168 - ERROR: $GRIA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:56,170 - ERROR: Failed to get ticker 'GRIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:56,170 - ERROR: $GRIA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:56,172 - ERROR: Failed to get ticker 'GRIA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:56,172 - ERROR: $GRIA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:56,783 - ERROR: Failed to get ticker 'GULA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:56,784 - ERROR: $GULA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:56,785 - ERROR: Failed to get ticker 'GULA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:56,785 - ERROR: $GULA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:56,787 - ERROR: Failed to get ticker 'GULA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:56,787 - ERROR: $GULA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:57,474 - ERROR: Failed to get ticker 'STRK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:57,474 - ERROR: $STRK.JK: possibly delisted; no timezone found
+2024-12-18 03:32:57,476 - ERROR: Failed to get ticker 'STRK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:57,476 - ERROR: $STRK.JK: possibly delisted; no timezone found
+2024-12-18 03:32:57,478 - ERROR: Failed to get ticker 'STRK.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:57,478 - ERROR: $STRK.JK: possibly delisted; no timezone found
+2024-12-18 03:32:58,059 - ERROR: Failed to get ticker 'WIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:58,059 - ERROR: $WIDI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:58,061 - ERROR: Failed to get ticker 'WIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:58,061 - ERROR: $WIDI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:58,063 - ERROR: Failed to get ticker 'WIDI.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:58,063 - ERROR: $WIDI.JK: possibly delisted; no timezone found
+2024-12-18 03:32:58,594 - ERROR: Failed to get ticker 'MSIE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:58,595 - ERROR: $MSIE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:58,596 - ERROR: Failed to get ticker 'MSIE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:58,597 - ERROR: $MSIE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:58,598 - ERROR: Failed to get ticker 'MSIE.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:58,598 - ERROR: $MSIE.JK: possibly delisted; no timezone found
+2024-12-18 03:32:59,220 - ERROR: Failed to get ticker 'PADA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:59,220 - ERROR: $PADA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:59,222 - ERROR: Failed to get ticker 'PADA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:59,222 - ERROR: $PADA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:59,223 - ERROR: Failed to get ticker 'PADA.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:59,224 - ERROR: $PADA.JK: possibly delisted; no timezone found
+2024-12-18 03:32:59,812 - ERROR: Failed to get ticker 'CYBR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:59,812 - ERROR: $CYBR.JK: possibly delisted; no timezone found
+2024-12-18 03:32:59,814 - ERROR: Failed to get ticker 'CYBR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:59,814 - ERROR: $CYBR.JK: possibly delisted; no timezone found
+2024-12-18 03:32:59,815 - ERROR: Failed to get ticker 'CYBR.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:32:59,815 - ERROR: $CYBR.JK: possibly delisted; no timezone found
+2024-12-18 03:33:00,377 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:33:00,378 - ERROR: $PTPS.JK: possibly delisted; no timezone found
+2024-12-18 03:33:00,379 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:33:00,380 - ERROR: $PTPS.JK: possibly delisted; no timezone found
+2024-12-18 03:33:00,381 - ERROR: Failed to get ticker 'PTPS.JK' reason: Expecting value: line 1 column 1 (char 0)
+2024-12-18 03:33:00,381 - ERROR: $PTPS.JK: possibly delisted; no timezone found
+2024-12-18 03:33:09,618 - INFO: 11 data are updated on 2024-12-18, the stocks are [{"date":"2024-12-18","price":1150,"type":"52_w_low","symbol":"ADMR.JK"},{"date":"2024-12-18","price":1150,"type":"90_d_low","symbol":"ADMR.JK"},{"date":"2024-12-18","price":1150,"type":"ytd_low","symbol":"ADMR.JK"},{"date":"2024-12-18","price":775,"type":"90_d_low","symbol":"SAPX.JK"},{"date":"2024-12-18","price":374,"type":"all_time_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":374,"type":"52_w_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":374,"type":"90_d_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":374,"type":"ytd_low","symbol":"AVIA.JK"},{"date":"2024-12-18","price":785,"type":"90_d_low","symbol":"NCKL.JK"},{"date":"2024-12-18","price":250,"type":"90_d_low","symbol":"CAMP.JK"},{"date":"2024-12-18","price":92,"type":"90_d_low","symbol":"LPKR.JK"}]
