@@ -23,7 +23,10 @@ def initiate_logging(LOG_FILENAME):
 
 def get_data(ticker):
     # Fetch data from yahoo finance
-    stock = yf.Ticker(ticker).history(interval="1d",period="max",auto_adjust=False) 
+    tz = pytz.timezone("Asia/Jakarta")
+    start = tz.localize(datetime(2000,1,1))
+    end = tz.localize(datetime.today())
+    stock = yf.download(ticker,start, end,auto_adjust=False)#.history(interval="1d",period="max",auto_adjust=False) 
 
     stock = stock.reset_index()
     stock = stock.sort_values("Date")
@@ -128,36 +131,36 @@ all_df = pd.DataFrame()
 # Fetch historical all time price data for every stock
 for i in act_symbol["symbol"]:
 
-    try_occ = 0
-    while try_occ < 3:
-        try:
+    # try_occ = 0
+    # while try_occ < 3:
+    #     try:
             
-            stock = get_data(i)
-            stock_high, stock_low = get_all_time_price(stock)
-            price_52w_high, price_52w_low = get_52w_price(stock)
-            price_90d_high, price_90d_low = get_90d_price(stock)
-            price_ytd_high, price_ytd_low = get_ytd_price(stock)
-            
-            # Combine all price status data
-            result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low,price_90d_high,price_90d_low,price_ytd_high,price_ytd_low])
-            result["symbol"] = i
+    stock = get_data(i)
+    stock_high, stock_low = get_all_time_price(stock)
+    price_52w_high, price_52w_low = get_52w_price(stock)
+    price_90d_high, price_90d_low = get_90d_price(stock)
+    price_ytd_high, price_ytd_low = get_ytd_price(stock)
+    
+    # Combine all price status data
+    result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low,price_90d_high,price_90d_low,price_ytd_high,price_ytd_low])
+    result["symbol"] = i
 
-            result["price"] = result["price"].astype('int')
+    result["price"] = result["price"].astype('int')
 
-            result["date"] = result['date'].astype('str')
+    result["date"] = result['date'].astype('str')
 
-            result.reset_index(inplace=True,drop=True)
+    result.reset_index(inplace=True,drop=True)
 
-            all_df = pd.concat([all_df,result])
+    all_df = pd.concat([all_df,result])
 
-            print(f"Finish for stock {i}")
+    print(f"Finish for stock {i}")
 
-            try_occ = 5
+        #     try_occ = 5
         
-        except:
-            print(f"Failed for stock {i}")
-            try_occ += 1
-            time.sleep(2)
+        # except:
+        #     print(f"Failed for stock {i}")
+        #     try_occ += 1
+        #     time.sleep(2)
 
 
 # Collect existing all time price data
