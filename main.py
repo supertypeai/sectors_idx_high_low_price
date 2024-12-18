@@ -32,6 +32,7 @@ def get_data(ticker):
     stock = stock.reset_index()
     stock = stock.sort_values("Date")
     stock = stock[["Date","High","Low"]]
+    stock.columns = ["Date","High","Low"]
     stock["Date"] = pd.to_datetime(stock["Date"].dt.date)
 
     return stock
