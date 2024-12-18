@@ -127,28 +127,35 @@ all_df = pd.DataFrame()
 
 # Fetch historical all time price data for every stock
 for i in act_symbol["symbol"]:
+
+    try_occ = 0
+    while try_occ < 3:
+        try:
+            
+            stock = get_data(i)
+            stock_high, stock_low = get_all_time_price(stock)
+            price_52w_high, price_52w_low = get_52w_price(stock)
+            price_90d_high, price_90d_low = get_90d_price(stock)
+            price_ytd_high, price_ytd_low = get_ytd_price(stock)
+            
+            # Combine all price status data
+            result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low,price_90d_high,price_90d_low,price_ytd_high,price_ytd_low])
+            result["symbol"] = i
+
+            result["price"] = result["price"].astype('int')
+
+            result["date"] = result['date'].astype('str')
+
+            result.reset_index(inplace=True,drop=True)
+
+            all_df = pd.concat([all_df,result])
+
+            print(f"Finish for stock {i}")
         
-    stock = get_data(i)
-    stock_high, stock_low = get_all_time_price(stock)
-    price_52w_high, price_52w_low = get_52w_price(stock)
-    price_90d_high, price_90d_low = get_90d_price(stock)
-    price_ytd_high, price_ytd_low = get_ytd_price(stock)
-    
-    # Combine all price status data
-    result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low,price_90d_high,price_90d_low,price_ytd_high,price_ytd_low])
-    result["symbol"] = i
+        except:
+            print(f"Failed for stock {i}")
+            try_occ += 1
 
-    result["price"] = result["price"].astype('int')
-
-    result["date"] = result['date'].astype('str')
-
-    result.reset_index(inplace=True,drop=True)
-
-    all_df = pd.concat([all_df,result])
-
-    print(f"Finish for stock {i}")
-
-    time.sleep(2)
 
 # Collect existing all time price data
 response = supabase.table('idx_all_time_price').select('*').execute()
