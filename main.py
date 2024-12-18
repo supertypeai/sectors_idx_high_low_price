@@ -110,60 +110,63 @@ def get_ytd_price(stock):
 
     return price_ytd_high,price_ytd_low
 
-# Initiate Supabase DB
-load_dotenv()
-url = os.getenv("SUPABASE_URL")
-key = os.getenv("SUPABASE_KEY")
-supabase = create_client(url, key)
+stock = get_data("SIMA.JK")
 
-initiate_logging(LOG_FILENAME)
+print(stock)
+# # Initiate Supabase DB
+# load_dotenv()
+# url = os.getenv("SUPABASE_URL")
+# key = os.getenv("SUPABASE_KEY")
+# supabase = create_client(url, key)
 
-# Get active company list
-response = supabase.table('idx_active_company_profile').select('symbol').execute()
-act_symbol = pd.DataFrame(response.data)
+# initiate_logging(LOG_FILENAME)
 
-all_df = pd.DataFrame()
+# # Get active company list
+# response = supabase.table('idx_active_company_profile').select('symbol').execute()
+# act_symbol = pd.DataFrame(response.data)
 
-# Fetch historical all time price data for every stock
-for i in act_symbol["symbol"]:
+# all_df = pd.DataFrame()
+
+# # Fetch historical all time price data for every stock
+# for i in act_symbol["symbol"]:
         
-    stock = get_data(i)
-    stock_high, stock_low = get_all_time_price(stock)
-    price_52w_high, price_52w_low = get_52w_price(stock)
-    price_90d_high, price_90d_low = get_90d_price(stock)
-    price_ytd_high, price_ytd_low = get_ytd_price(stock)
+#     stock = get_data(i)
+#     stock_high, stock_low = get_all_time_price(stock)
+#     price_52w_high, price_52w_low = get_52w_price(stock)
+#     price_90d_high, price_90d_low = get_90d_price(stock)
+#     price_ytd_high, price_ytd_low = get_ytd_price(stock)
     
-    # Combine all price status data
-    result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low,price_90d_high,price_90d_low,price_ytd_high,price_ytd_low])
-    result["symbol"] = i
+#     # Combine all price status data
+#     result = pd.concat([stock_high,stock_low,price_52w_high,price_52w_low,price_90d_high,price_90d_low,price_ytd_high,price_ytd_low])
+#     result["symbol"] = i
 
-    result["price"] = result["price"].astype('int')
+#     result["price"] = result["price"].astype('int')
 
-    result["date"] = result['date'].astype('str')
+#     result["date"] = result['date'].astype('str')
 
-    result.reset_index(inplace=True,drop=True)
+#     result.reset_index(inplace=True,drop=True)
 
-    all_df = pd.concat([all_df,result])
+#     all_df = pd.concat([all_df,result])
 
-    print(f"Finish for stock {i}")
+#     print(f"Finish for stock {i}")
 
-# Collect existing all time price data
-response = supabase.table('idx_all_time_price').select('*').execute()
-at_price_hist = pd.DataFrame(response.data)
+# # Collect existing all time price data
+# response = supabase.table('idx_all_time_price').select('*').execute()
+# at_price_hist = pd.DataFrame(response.data)
 
-# Remove unchanged all time price data
-update_df = pd.merge(
-    all_df, 
-    at_price_hist, 
-    how='left', 
-    indicator=True
-).query('_merge == "left_only"').drop('_merge', axis=1)
+# # Remove unchanged all time price data
+# update_df = pd.merge(
+#     all_df, 
+#     at_price_hist, 
+#     how='left', 
+#     indicator=True
+# ).query('_merge == "left_only"').drop('_merge', axis=1)
 
-# Upload the data into supabase
-for record in update_df.to_dict(orient="records"):
-    try:
-        supabase.table('idx_all_time_price').upsert(record).execute()
-    except:
-        print("Financial report for the symbol is already available in the database")
+# # Upload the data into supabase
+# for record in update_df.to_dict(orient="records"):
+#     try:
+#         supabase.table('idx_all_time_price').upsert(record).execute()
+#     except:
+#         print("Financial report for the symbol is already available in the database")
 
-logging.info(f"{update_df.shape[0]} data are updated on {date.today()}, the stocks are {update_df.to_json(orient='records')}")
+# logging.info(f"{update_df.shape[0]} data are updated on {date.today()}, the stocks are {update_df.to_json(orient='records')}")
