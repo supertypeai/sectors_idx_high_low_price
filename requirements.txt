@@ -1,5 +1,4 @@
 yfinance==0.2.65
 pandas==2.2.3
 python-dotenv==1.0.1
-supabase==2.6.0
-realtime>=2
+supabase==2.16.0
