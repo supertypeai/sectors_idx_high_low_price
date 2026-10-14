@@ -8240,3 +8240,24 @@
 2026-10-14 14:56:48,709 - ERROR: $OCAP.JK: possibly delisted; no timezone found
 2026-10-14 14:56:56,188 - ERROR: $PLAS.JK: possibly delisted; no timezone found
 2026-10-14 14:57:01,547 - INFO: 2 data are updated on 2026-10-14, the stocks are [{"date":"2026-10-14","price":560,"type":"90_d_low","symbol":"JTPE.JK"},{"date":"2026-10-14","price":176,"type":"90_d_low","symbol":"KOPI.JK"}]
+2026-10-14 15:39:49,597 - INFO: Program started
+2026-10-14 15:39:51,685 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POOL.JK"}}}
+2026-10-14 15:39:51,849 - ERROR: $POOL.JK: possibly delisted; no timezone found
+2026-10-14 15:39:52,456 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POSA.JK"}}}
+2026-10-14 15:39:52,573 - ERROR: $POSA.JK: possibly delisted; no timezone found
+2026-10-14 15:39:59,511 - ERROR: $PURE.JK: possibly delisted; no timezone found
+2026-10-14 15:40:04,551 - ERROR: $RIMO.JK: possibly delisted; no timezone found
+2026-10-14 15:40:09,650 - ERROR: $SCPI.JK: possibly delisted; no timezone found
+2026-10-14 15:40:13,245 - ERROR: $SIMA.JK: possibly delisted; no timezone found
+2026-10-14 15:40:14,920 - ERROR: $SKYB.JK: possibly delisted; no timezone found
+2026-10-14 15:40:19,345 - ERROR: $SMRU.JK: possibly delisted; no timezone found
+2026-10-14 15:40:23,121 - ERROR: $SRIL.JK: possibly delisted; no timezone found
+2026-10-14 15:40:25,578 - ERROR: $SUGI.JK: possibly delisted; no timezone found
+2026-10-14 15:40:30,356 - ERROR: $TDPM.JK: possibly delisted; no timezone found
+2026-10-14 15:40:30,891 - ERROR: $TECH.JK: possibly delisted; no timezone found
+2026-10-14 15:40:37,857 - ERROR: $TRAM.JK: possibly delisted; no timezone found
+2026-10-14 15:40:38,280 - ERROR: $TRIL.JK: possibly delisted; no timezone found
+2026-10-14 15:40:39,107 - ERROR: $TRIO.JK: possibly delisted; no timezone found
+2026-10-14 15:40:43,429 - ERROR: $UNIT.JK: possibly delisted; no timezone found
+2026-10-14 15:40:53,042 - ERROR: $WSKT.JK: possibly delisted; no timezone found
+2026-10-14 15:40:56,169 - INFO: 0 data are updated on 2026-10-14, the stocks are []
