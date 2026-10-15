@@ -8346,3 +8346,24 @@
 2026-10-15 14:44:56,395 - ERROR: $OCAP.JK: possibly delisted; no timezone found
 2026-10-15 14:45:06,042 - ERROR: $PLAS.JK: possibly delisted; no timezone found
 2026-10-15 14:45:15,481 - INFO: 17 data are updated on 2026-10-15, the stocks are [{"date":"2026-10-15","price":350,"type":"all_time_low","symbol":"JELI.JK"},{"date":"2026-10-15","price":350,"type":"52_w_low","symbol":"JELI.JK"},{"date":"2026-10-15","price":350,"type":"90_d_low","symbol":"JELI.JK"},{"date":"2026-10-15","price":350,"type":"ytd_low","symbol":"JELI.JK"},{"date":"2026-10-15","price":795,"type":"90_d_low","symbol":"KEEN.JK"},{"date":"2026-10-15","price":190,"type":"52_w_low","symbol":"LPLI.JK"},{"date":"2026-10-15","price":190,"type":"90_d_low","symbol":"LPLI.JK"},{"date":"2026-10-15","price":190,"type":"ytd_low","symbol":"LPLI.JK"},{"date":"2026-10-15","price":23,"type":"all_time_low","symbol":"MAXI.JK"},{"date":"2026-10-15","price":23,"type":"52_w_low","symbol":"MAXI.JK"},{"date":"2026-10-15","price":23,"type":"90_d_low","symbol":"MAXI.JK"},{"date":"2026-10-15","price":23,"type":"ytd_low","symbol":"MAXI.JK"},{"date":"2026-10-15","price":436,"type":"90_d_low","symbol":"MBMA.JK"},{"date":"2026-10-15","price":156,"type":"52_w_low","symbol":"MSIN.JK"},{"date":"2026-10-15","price":156,"type":"90_d_low","symbol":"MSIN.JK"},{"date":"2026-10-15","price":156,"type":"ytd_low","symbol":"MSIN.JK"},{"date":"2026-10-15","price":171,"type":"90_d_low","symbol":"NIKL.JK"}]
+2026-10-15 15:27:39,090 - INFO: Program started
+2026-10-15 15:27:40,455 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POOL.JK"}}}
+2026-10-15 15:27:40,557 - ERROR: $POOL.JK: possibly delisted; no timezone found
+2026-10-15 15:27:41,090 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POSA.JK"}}}
+2026-10-15 15:27:41,195 - ERROR: $POSA.JK: possibly delisted; no timezone found
+2026-10-15 15:27:46,969 - ERROR: $PURE.JK: possibly delisted; no timezone found
+2026-10-15 15:27:51,376 - ERROR: $RIMO.JK: possibly delisted; no timezone found
+2026-10-15 15:27:56,088 - ERROR: $SCPI.JK: possibly delisted; no timezone found
+2026-10-15 15:27:58,818 - ERROR: $SIMA.JK: possibly delisted; no timezone found
+2026-10-15 15:28:00,278 - ERROR: $SKYB.JK: possibly delisted; no timezone found
+2026-10-15 15:28:03,992 - ERROR: $SMRU.JK: possibly delisted; no timezone found
+2026-10-15 15:28:07,181 - ERROR: $SRIL.JK: possibly delisted; no timezone found
+2026-10-15 15:28:09,363 - ERROR: $SUGI.JK: possibly delisted; no timezone found
+2026-10-15 15:28:13,519 - ERROR: $TDPM.JK: possibly delisted; no timezone found
+2026-10-15 15:28:13,989 - ERROR: $TECH.JK: possibly delisted; no timezone found
+2026-10-15 15:28:19,904 - ERROR: $TRAM.JK: possibly delisted; no timezone found
+2026-10-15 15:28:20,298 - ERROR: $TRIL.JK: possibly delisted; no timezone found
+2026-10-15 15:28:21,052 - ERROR: $TRIO.JK: possibly delisted; no timezone found
+2026-10-15 15:28:25,119 - ERROR: $UNIT.JK: possibly delisted; no timezone found
+2026-10-15 15:28:32,239 - ERROR: $WSKT.JK: possibly delisted; no timezone found
+2026-10-15 15:28:35,368 - INFO: 0 data are updated on 2026-10-15, the stocks are []
