@@ -8452,3 +8452,24 @@
 2026-10-16 14:38:00,490 - ERROR: $OCAP.JK: possibly delisted; no timezone found
 2026-10-16 14:38:09,982 - ERROR: $PLAS.JK: possibly delisted; no timezone found
 2026-10-16 14:38:20,205 - INFO: 22 data are updated on 2026-10-16, the stocks are [{"date":"2026-10-16","price":480,"type":"90_d_low","symbol":"IKBI.JK"},{"date":"2026-10-16","price":725,"type":"52_w_low","symbol":"IMAS.JK"},{"date":"2026-10-16","price":725,"type":"90_d_low","symbol":"IMAS.JK"},{"date":"2026-10-16","price":725,"type":"ytd_low","symbol":"IMAS.JK"},{"date":"2026-10-16","price":545,"type":"90_d_low","symbol":"JTPE.JK"},{"date":"2026-10-16","price":1480,"type":"90_d_low","symbol":"KONI.JK"},{"date":"2026-10-16","price":3410,"type":"90_d_low","symbol":"MERK.JK"},{"date":"2026-10-16","price":1060,"type":"90_d_low","symbol":"MKAP.JK"},{"date":"2026-10-16","price":458,"type":"52_w_low","symbol":"MTDL.JK"},{"date":"2026-10-16","price":458,"type":"90_d_low","symbol":"MTDL.JK"},{"date":"2026-10-16","price":458,"type":"ytd_low","symbol":"MTDL.JK"},{"date":"2026-10-16","price":165,"type":"90_d_low","symbol":"NELY.JK"},{"date":"2026-10-16","price":1100,"type":"90_d_low","symbol":"NISP.JK"},{"date":"2026-10-16","price":360,"type":"52_w_low","symbol":"PANR.JK"},{"date":"2026-10-16","price":360,"type":"90_d_low","symbol":"PANR.JK"},{"date":"2026-10-16","price":360,"type":"ytd_low","symbol":"PANR.JK"},{"date":"2026-10-16","price":1190,"type":"52_w_low","symbol":"PGAS.JK"},{"date":"2026-10-16","price":1190,"type":"90_d_low","symbol":"PGAS.JK"},{"date":"2026-10-16","price":1190,"type":"ytd_low","symbol":"PGAS.JK"},{"date":"2026-10-16","price":384,"type":"52_w_low","symbol":"PNSE.JK"},{"date":"2026-10-16","price":384,"type":"90_d_low","symbol":"PNSE.JK"},{"date":"2026-10-16","price":384,"type":"ytd_low","symbol":"PNSE.JK"}]
+2026-10-16 15:07:15,800 - INFO: Program started
+2026-10-16 15:07:17,696 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POOL.JK"}}}
+2026-10-16 15:07:17,822 - ERROR: $POOL.JK: possibly delisted; no timezone found
+2026-10-16 15:07:18,591 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POSA.JK"}}}
+2026-10-16 15:07:18,689 - ERROR: $POSA.JK: possibly delisted; no timezone found
+2026-10-16 15:07:24,692 - ERROR: $PURE.JK: possibly delisted; no timezone found
+2026-10-16 15:07:29,185 - ERROR: $RIMO.JK: possibly delisted; no timezone found
+2026-10-16 15:07:34,328 - ERROR: $SCPI.JK: possibly delisted; no timezone found
+2026-10-16 15:07:37,280 - ERROR: $SIMA.JK: possibly delisted; no timezone found
+2026-10-16 15:07:38,744 - ERROR: $SKYB.JK: possibly delisted; no timezone found
+2026-10-16 15:07:42,358 - ERROR: $SMRU.JK: possibly delisted; no timezone found
+2026-10-16 15:07:45,750 - ERROR: $SRIL.JK: possibly delisted; no timezone found
+2026-10-16 15:07:47,858 - ERROR: $SUGI.JK: possibly delisted; no timezone found
+2026-10-16 15:07:51,907 - ERROR: $TDPM.JK: possibly delisted; no timezone found
+2026-10-16 15:07:52,283 - ERROR: $TECH.JK: possibly delisted; no timezone found
+2026-10-16 15:07:58,231 - ERROR: $TRAM.JK: possibly delisted; no timezone found
+2026-10-16 15:07:58,633 - ERROR: $TRIL.JK: possibly delisted; no timezone found
+2026-10-16 15:07:59,217 - ERROR: $TRIO.JK: possibly delisted; no timezone found
+2026-10-16 15:08:03,024 - ERROR: $UNIT.JK: possibly delisted; no timezone found
+2026-10-16 15:08:10,645 - ERROR: $WSKT.JK: possibly delisted; no timezone found
+2026-10-16 15:08:20,496 - INFO: 10 data are updated on 2026-10-16, the stocks are [{"date":"2026-10-16","price":2300,"type":"52_w_low","symbol":"TCID.JK"},{"date":"2026-10-16","price":2300,"type":"90_d_low","symbol":"TCID.JK"},{"date":"2026-10-16","price":2300,"type":"ytd_low","symbol":"TCID.JK"},{"date":"2026-10-16","price":150,"type":"52_w_low","symbol":"TRGU.JK"},{"date":"2026-10-16","price":150,"type":"90_d_low","symbol":"TRGU.JK"},{"date":"2026-10-16","price":150,"type":"ytd_low","symbol":"TRGU.JK"},{"date":"2026-10-16","price":1035,"type":"all_time_low","symbol":"YUPI.JK"},{"date":"2026-10-16","price":1035,"type":"52_w_low","symbol":"YUPI.JK"},{"date":"2026-10-16","price":1035,"type":"90_d_low","symbol":"YUPI.JK"},{"date":"2026-10-16","price":1035,"type":"ytd_low","symbol":"YUPI.JK"}]
