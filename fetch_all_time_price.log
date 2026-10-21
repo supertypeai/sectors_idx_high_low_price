@@ -8770,3 +8770,24 @@
 2026-10-21 14:56:01,581 - ERROR: $OCAP.JK: possibly delisted; no timezone found
 2026-10-21 14:56:10,015 - ERROR: $PLAS.JK: possibly delisted; no timezone found
 2026-10-21 14:56:14,689 - INFO: 0 data are updated on 2026-10-21, the stocks are []
+2026-10-21 15:47:50,621 - INFO: Program started
+2026-10-21 15:47:52,707 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POOL.JK"}}}
+2026-10-21 15:47:52,917 - ERROR: $POOL.JK: possibly delisted; no timezone found
+2026-10-21 15:47:53,682 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POSA.JK"}}}
+2026-10-21 15:47:53,828 - ERROR: $POSA.JK: possibly delisted; no timezone found
+2026-10-21 15:48:01,462 - ERROR: $PURE.JK: possibly delisted; no timezone found
+2026-10-21 15:48:07,607 - ERROR: $RIMO.JK: possibly delisted; no timezone found
+2026-10-21 15:48:13,486 - ERROR: $SCPI.JK: possibly delisted; no timezone found
+2026-10-21 15:48:17,107 - ERROR: $SIMA.JK: possibly delisted; no timezone found
+2026-10-21 15:48:18,974 - ERROR: $SKYB.JK: possibly delisted; no timezone found
+2026-10-21 15:48:23,469 - ERROR: $SMRU.JK: possibly delisted; no timezone found
+2026-10-21 15:48:27,671 - ERROR: $SRIL.JK: possibly delisted; no timezone found
+2026-10-21 15:48:30,298 - ERROR: $SUGI.JK: possibly delisted; no timezone found
+2026-10-21 15:48:35,406 - ERROR: $TDPM.JK: possibly delisted; no timezone found
+2026-10-21 15:48:35,952 - ERROR: $TECH.JK: possibly delisted; no timezone found
+2026-10-21 15:48:43,474 - ERROR: $TRAM.JK: possibly delisted; no timezone found
+2026-10-21 15:48:43,882 - ERROR: $TRIL.JK: possibly delisted; no timezone found
+2026-10-21 15:48:44,822 - ERROR: $TRIO.JK: possibly delisted; no timezone found
+2026-10-21 15:48:49,709 - ERROR: $UNIT.JK: possibly delisted; no timezone found
+2026-10-21 15:48:59,790 - ERROR: $WSKT.JK: possibly delisted; no timezone found
+2026-10-21 15:49:03,646 - INFO: 0 data are updated on 2026-10-21, the stocks are []
