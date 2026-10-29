@@ -9406,3 +9406,24 @@
 2026-10-29 16:41:57,113 - ERROR: $OCAP.JK: possibly delisted; no timezone found
 2026-10-29 16:42:04,559 - ERROR: $PLAS.JK: possibly delisted; no timezone found
 2026-10-29 16:42:09,079 - INFO: 0 data are updated on 2026-10-29, the stocks are []
+2026-10-29 17:16:18,857 - INFO: Program started
+2026-10-29 17:16:21,211 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POOL.JK"}}}
+2026-10-29 17:16:21,453 - ERROR: $POOL.JK: possibly delisted; no timezone found
+2026-10-29 17:16:22,261 - ERROR: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: POSA.JK"}}}
+2026-10-29 17:16:22,454 - ERROR: $POSA.JK: possibly delisted; no timezone found
+2026-10-29 17:16:30,995 - ERROR: $PURE.JK: possibly delisted; no timezone found
+2026-10-29 17:16:37,272 - ERROR: $RIMO.JK: possibly delisted; no timezone found
+2026-10-29 17:16:44,157 - ERROR: $SCPI.JK: possibly delisted; no timezone found
+2026-10-29 17:16:47,981 - ERROR: $SIMA.JK: possibly delisted; no timezone found
+2026-10-29 17:16:50,073 - ERROR: $SKYB.JK: possibly delisted; no timezone found
+2026-10-29 17:16:55,003 - ERROR: $SMRU.JK: possibly delisted; no timezone found
+2026-10-29 17:16:59,412 - ERROR: $SRIL.JK: possibly delisted; no timezone found
+2026-10-29 17:17:02,361 - ERROR: $SUGI.JK: possibly delisted; no timezone found
+2026-10-29 17:17:08,237 - ERROR: $TDPM.JK: possibly delisted; no timezone found
+2026-10-29 17:17:09,023 - ERROR: $TECH.JK: possibly delisted; no timezone found
+2026-10-29 17:17:17,206 - ERROR: $TRAM.JK: possibly delisted; no timezone found
+2026-10-29 17:17:17,809 - ERROR: $TRIL.JK: possibly delisted; no timezone found
+2026-10-29 17:17:18,847 - ERROR: $TRIO.JK: possibly delisted; no timezone found
+2026-10-29 17:17:23,861 - ERROR: $UNIT.JK: possibly delisted; no timezone found
+2026-10-29 17:17:34,338 - ERROR: $WSKT.JK: possibly delisted; no timezone found
+2026-10-29 17:17:40,681 - INFO: 4 data are updated on 2026-10-29, the stocks are [{"date":"2026-10-20","price":67,"type":"90_d_low","symbol":"SPRE.JK"},{"date":"2026-10-29","price":1810,"type":"52_w_low","symbol":"UANG.JK"},{"date":"2026-10-29","price":1810,"type":"90_d_low","symbol":"UANG.JK"},{"date":"2026-10-29","price":1810,"type":"ytd_low","symbol":"UANG.JK"}]
